@@ -1,0 +1,51 @@
+{
+  "name": "{{title}}",
+  "type": "spell",
+  "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+  "system": {
+    "alternativeNames": ["{{alternativeNames}}"],
+    "castingTime": "{{castingTime}}",
+    "costs": {
+      "hitPoints": "{{hitPoints_cost}}",
+      "magicPoints": {{magicPoints_cost}},
+      "others": "{{other_costs}}",
+      "sanity": "{{sanity_cost}}",
+      "power": "{{power_cost}}"
+    },
+    "description": {
+      "chat": "{{chat_description}}",
+      "value": "{{description}}",
+      "keeper": "{{keeper_description}}",
+    "alternativeNames": ["{{alternativeNames}}"]
+    },
+    "effects": [{{effects}}],
+    "source": "{{source}}",
+    "learned": false,
+    "type": {
+      "bind": {{is_bind_type}},
+      "call": {{is_call_type}},
+      "combat": {{is_combat_type}},
+      "contact": {{is_contact_type}},
+      "dismiss": {{is_dismiss_type}},
+      "enchantment": {{is_enchantment_type}},
+      "gate": {{is_gate_type}},
+      "summon": {{is_summon_type}}
+    }
+  },
+  "effects": [{{effects}}],
+  "flags": {
+    "CoC7": {
+      "cocidFlag": {
+        "id": "i.spell.{{system_id}}",
+        "lang": "en",
+        "priority": 0
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "CoC7"
+  },
+  "ownership": {
+    "default": 0
+  }
+}
