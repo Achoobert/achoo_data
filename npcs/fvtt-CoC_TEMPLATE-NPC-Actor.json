@@ -1,0 +1,368 @@
+{
+  "name": "{{title}}",
+  "type": "npc",
+  "system": {
+    "characteristics": {
+      "str": {
+        "value": {{str}},
+        "tempValue": null,
+        "short": "CHARAC.STR",
+        "label": "CHARAC.Strength",
+        "formula": null,
+        "bonusDice": 0
+      },
+      "con": {
+        "value": {{con}},
+        "tempValue": null,
+        "short": "CHARAC.CON",
+        "label": "CHARAC.Constitution",
+        "formula": null,
+        "bonusDice": 0
+      },
+      "siz": {
+        "value": {{siz}},
+        "tempValue": null,
+        "short": "CHARAC.SIZ",
+        "label": "CHARAC.Size",
+        "formula": null,
+        "bonusDice": 0
+      },
+      "dex": {
+        "value": {{dex}},
+        "tempValue": null,
+        "short": "CHARAC.DEX",
+        "label": "CHARAC.Dexterity",
+        "formula": null,
+        "bonusDice": 0
+      },
+      "app": {
+        "value": {{app}},
+        "tempValue": null,
+        "short": "CHARAC.APP",
+        "label": "CHARAC.Appearance",
+        "formula": null,
+        "bonusDice": 0
+      },
+      "int": {
+        "value": {{int}},
+        "tempValue": null,
+        "short": "CHARAC.INT",
+        "label": "CHARAC.Intelligence",
+        "formula": null,
+        "bonusDice": 0
+      },
+      "pow": {
+        "value": {{pow}},
+        "tempValue": null,
+        "short": "CHARAC.POW",
+        "label": "CHARAC.Power",
+        "formula": null,
+        "bonusDice": 0
+      },
+      "edu": {
+        "value": {{edu}},
+        "tempValue": null,
+        "short": "CHARAC.EDU",
+        "label": "CHARAC.Education",
+        "formula": null,
+        "bonusDice": 0
+      }
+    },
+    "attribs": {
+      "hp": {
+        "value": {{hp}}, 
+        "short": "HP",
+        "label": "Hit points",
+        "auto": true
+      },
+      "mp": {
+        "value": {{mp}},
+        "short": "MP",
+        "label": "Magic points",
+        "auto": true
+      },
+      "lck": {
+        "value": {{lck}},
+        "short": "LCK",
+        "label": "Luck",
+        "max": 99
+      },
+      "san": {
+        "value": {{san}},
+        "max": 99,
+        "short": "SAN",
+        "label": "Sanity",
+        "auto": true
+      },
+      "mov": {
+        "auto": true
+      },
+      "db": {
+        "auto": true
+      },
+      "build": {
+        "auto": true
+      },
+      "armor": {
+        "value": {{armor}},
+        "auto": false
+      }
+    },
+    "personalDescription": {
+      "type": "string",
+      "value": "{{description}}"
+    },
+    "description": {
+      "keeper": "{{keeper_description}}"
+    },
+    "special": {
+      "sanLoss": {
+        "checkPassed": "",
+        "checkFailled": ""
+      },
+      "attacksPerRound": {{attacksPerRound}},
+      "movement": [],
+      "macros": []
+    },
+    "infos": {
+      "occupation": "{{occupation}}",
+      "age": "{{age}}",
+      "sex": "{{sex}}",
+      "organization": "{{organization}}"
+    },
+    "flags": {
+      "locked": true,
+      "displayFormula": false
+    },
+    "attacksPerRound": {{attacksPerRound}},
+    "biography": {
+      "personalDescription": {
+        "value": "{{description}}"
+      }
+    }
+  },
+  "img": "{{art}}",
+  "prototypeToken": {
+    "name": "{{title}}",
+    "actorLink": true,
+    "appendNumber": false,
+    "prependAdjective": false,
+    "width": 1,
+    "height": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": "attribs.hp"
+    },
+    "bar2": {
+      "attribute": "attribs.san"
+    },
+    "sight": {
+      "enabled": false
+    },
+    "flags": {},
+    "randomImg": false,
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null
+  },
+  "items": [
+    {
+      "type": "skill",
+      "name": "Fighting (Brawl)",
+      "system": {
+        "skillName": "Brawl",
+        "specialization": "Fighting",
+        "description": {
+          "value": "",
+          "opposingDifficulty": "",
+          "pushedFaillureConsequences": "",
+          "chat": "",
+          "keeper": ""
+        },
+        "base": 25,
+        "bonusDice": 0, 
+        "value": "{{skill_fighting_brawl}}",
+        "attributes": {},
+        "properties": {
+          "special": true,
+          "fighting": true,
+          "combat": true
+        },
+        "flags": {}
+      },
+      "img": "systems/CoC7/assets/icons/skills.svg",      
+      "_id": "7amYPAOCbing7o13",
+      "flags": {
+        "CoC7": {
+          "cocidFlag": {
+            "id": "i.skill.fighting-brawl",
+            "lang": "en",
+            "priority": 0
+          }
+        }
+      },
+      "_stats": {
+        "systemId": "CoC7"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Brawl",
+      "type": "weapon",
+      "system": {
+        "description": {
+          "value": "",
+          "chat": "",
+          "special": "",
+          "keeper": ""
+        },
+        "wpnType": "",
+        "skill": {
+          "main": {
+            "name": "Fighting (Brawl)",
+            "id": "7amYPAOCbing7o13"
+          },
+          "alternativ": {
+            "name": "",
+            "id": ""
+          },
+          "id": null
+        },
+        "range": {
+          "normal": {
+            "value": 0,
+            "units": "",
+            "damage": "1D3"
+          },
+          "long": {
+            "value": 0,
+            "units": "",
+            "damage": ""
+          },
+          "extreme": {
+            "value": 0,
+            "units": "",
+            "damage": ""
+          }
+        },
+        "usesPerRound": {
+          "normal": 1,
+          "max": null,
+          "burst": null
+        },
+        "bullets": null,
+        "ammo": 0,
+        "malfunction": null,
+        "blastRadius": null,
+        "properties": {
+          "melee": true
+        },
+        "price": {}
+      },
+      "img": "icons/svg/sword.svg",
+      "_id": "W8LeXT4RxbGyqukj",
+      "_stats": {
+        "coreVersion": "13.348",
+        "systemId": "CoC7",
+        "systemVersion": "7.19",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "flags": {},
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "SjzZRNXrNRC1zfVw",
+      "name": "Dodge",
+      "type": "skill",
+      "img": "systems/CoC7/assets/icons/skills/dodge.svg",
+      "system": {
+        "skillName": "Dodge",
+        "specialization": "",
+        "description": {
+          "value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook</p>",
+          "opposingDifficulty": "",
+          "pushedFaillureConsequences": "",
+          "chat": "",
+          "keeper": ""
+        },
+        "base": 50,
+        "bonusDice": 0,
+        "adjustments": {
+          "personal": null,
+          "occupation": null,
+          "archetype": null,
+          "experiencePackage": null,
+          "experience": null
+        },
+        "value": "25",
+        "attributes": {},
+        "properties": {},
+        "flags": {}
+      },
+      "flags": {
+        "CoC7": {
+          "cocidFlag": {
+            "id": "i.skill.dodge",
+            "lang": "en",
+            "priority": 0,
+            "eras": {
+              "standard": true,
+              "invictus": true,
+              "darkAges": true,
+              "darkAgesPulp": true,
+              "downDarkerTrails": true,
+              "downDarkerTrailsPulp": true,
+              "gasLight": true,
+              "pulp": true,
+              "modern": true,
+              "modernPulp": true
+            }
+          }
+        }
+      },
+      "_stats": {
+        "systemId": "CoC7"
+      },
+      "effects": [],
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "flags": {
+    "CoC7": {
+      "cocidFlag": {
+        "id": "a.npc.{{system_id}}",
+        "lang": "en",
+        "priority": 0
+      }
+    }
+  },
+  "_stats": {
+    "systemId": "CoC7"
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0
+  }
+}
