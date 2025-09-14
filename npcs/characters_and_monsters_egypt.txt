@@ -1,0 +1,1788 @@
+
+CHARACTERS AND 
+MONSTERS: EGYPT
+Statistical profiles are gathered here to enable the Keeper to 
+copy or print out these pages separately from the campaign 
+to provide a handy reference when running this chapter. 
+NPCs, monsters, and others are gathered by type or distinct 
+groupings.
+Note: certain NPCs have alternative combat profiles, as well 
+as talents for pulp games.
+
+--- Page 376 ---
+
+373
+373
+EGYPT
+GUIDES AND ROBBERS
+Ibi Moussa, 20, hotel gang lieutenant
+STR 45	
+CON 50	
+SIZ 80	
+DEX 50	
+INT 70 
+APP 60	
+POW 75	
+EDU 60	
+SAN 75	
+HP 13
+DB: +1D4	 Build: 1	
+Move: 7	
+MP: 15	
+Luck: 35
+Combat
+Attacks per round: 1
+Brawl	
+	
+45% (22/9), damage 1D3+1D4  
+	
+	
+or knife 1D4+1D4
+Dodge	
+	
+40% (20/8) 
+Skills
+Art/Craft (Acting) 55%, Charm 70%, Climb 50%, Fast Talk 
+55%, Jump 50%, Listen 50%, Psychology 60%, Sleight of Hand 
+50%, Stealth 45%.
+Languages
+Arabic 65%, English 50%, French 40%.
+Robbers, various troublemakers
+Use this profile for both Ibi Moussa’s accomplices and Hakim’s 
+friends.
+STR 45	
+CON 50	
+SIZ 55	
+DEX 50	
+INT 60 
+APP 50	
+POW 40	
+EDU 25	
+SAN 40	
+HP 16
+DB: 0	
+Build: 0	
+Move: 7	
+MP: 15	
+Luck: —
+Combat
+Attacks per round: 1
+Brawl	
+	
+45% (22/9), damage 1D3  
+	
+	
+or knife 1D4
+Garrote	
+	
+35% (17/7), mnvr to escape or 	
+	
+	
+suffer 1D6 damage per round
+Dodge	
+	
+45% (22/9) 
+Skills
+Climb 50%, Fast Talk 35%, Intimidate 40%, Jump 50%, Listen 
+40%, Persuade 25%, Sleight of Hand 50%, Spot Hidden 40%, 
+Stealth 45%.
+Languages
+Arabic 40%, English 20%, French 20%.
+Hakim, 20, disreputable dragoman
+STR 70	
+CON 50	
+SIZ 65	
+DEX 55	
+INT 60 
+APP 70	
+POW 45	
+EDU 20	
+SAN 40	
+HP 11
+DB: +1D4	 Build: 1	
+Move: 8	
+MP: 9	
+Luck: —
+Combat
+Attacks per round: 1
+Brawl	
+	
+55% (27/11), damage 1D3+1D4 	
+	
+	
+or knife 1D4+1D4
+Garrote 	
+	
+45% (22/9), mnvr. to escape  
+	
+	
+or suffer 1D6 damage per round
+Dodge	
+	
+45% (22/9)
+Skills
+Charm 45%, Climb 50%, Fast Talk 35%, Jump 40%, Navigate 
+50%, Persuade 25%, Spot Hidden 40%, Stealth 50%.
+Languages
+Arabic 40%, English 30%.
+Saleem Naziz, 25, professional tourist guide
+STR 60	
+CON 65	
+SIZ 50	
+DEX 55	
+INT 70 
+APP 60	
+POW 55	
+EDU 65	
+SAN 55	
+HP 11
+DB: 0	
+Build: 0	
+Move: 9	
+MP: 11	
+Luck: —
+Combat
+Attacks per round: 1
+Brawl	
+	
+40% (20/8), damage 1D3  
+	
+	
+or dagger 1D4+2
+.22 bolt-action rifle	
+35% (17/7), damage 1D6+1
+Dodge	
+	
+30% (15/6) 
+Skills
+Archaeology 15%, Climb 60%, Fast Talk 65%, History 40%, 
+Natural World 15%, Navigate 80%, Persuade 60%, Ride 40%, 
+Stealth 55%, Track 20%.
+Languages
+Arabic 70%, English 30%, French 25%, German 25%.
+Mahmoud, 11, beggar boy
+STR 45	
+CON 70	
+SIZ 35	
+DEX 75	
+INT 80 
+APP 65	
+POW 60	
+EDU 15	
+SAN 60	
+HP 10
+DB: –1	
+Build: –1	
+Move: 9	
+MP: 12	
+Luck: —
+Attacks per round: 1
+Brawl	
+	
+50% (25/10), damage 1D3–1
+Dodge	
+	
+65% (32/13) 
+Skills
+Climb 70%, Fast Talk 30%, Jump 65%, Listen 45%, Persuade 45%, 
+Psychology 10%, Spot Hidden 50%, Stealth 70%, Throw 40%.
+Languages
+Arabic 45%, English 30%.
+
+--- Page 377 ---
+
+S 
+E 
+R 
+P 
+E 
+N 
+T 
+O
+F 
+Y 
+I 
+G
+374
+374
+CHAPTER 4
+ALLIES OR INDEPENDENTS
+Faraz Najjar, 45, antiquities dealer
+STR 35	
+CON 80	
+SIZ 45	
+DEX 45	
+INT 70 
+APP 20	
+POW 65	
+EDU 40	
+SAN 10	
+HP 12
+DB: –1	
+Build: –1	
+Move: 7	
+MP: 13	
+Luck: 30
+Combat
+Attacks per round: 1
+Brawl	
+	
+40% (20/8), damage 1D3–1
+.38 revolver		
+45% (22/9), damage 1D10
+Dodge	
+	
+45% (22/9) 
+Special
+Wears the Amulet of the Night Beasts, granting limited 
+protection against hunting horrors (see Appendix D: Artifacts, 
+page 652).
+Skills
+Accounting 50%, Archaeology 30%, Credit Rating 20%, 
+Cthulhu Mythos 10%, Fast Talk 65%, History (Egyptian) 60%, 
+Law 15%, Listen 55%, Occult 25%, Persuade 45%, Psychology 
+30%, Spot Hidden 65%, Stealth 55%.
+Languages
+Arabic 90%, English 40%, French 45%.
+Warren Besart, 35, hashish addict
+STR 20	
+CON 40	
+SIZ 60	
+DEX 35	
+INT 65 
+APP 30	
+POW 50	
+EDU 75	
+SAN 25	
+HP 10
+DB: –1	
+Build: –1	
+Move: 7	
+MP: 10	
+Luck: 25
+Combat
+Attacks per round: 1
+Brawl	
+	
+35% (17/7), damage 1D3–1
+Dodge	
+	
+20% (10/5) 
+Skills
+Accounting 45%, Appraise (Hashish) 65%, Archaeology 55%, 
+Climb 35%, Credit Rating 5%, Cthulhu Mythos 11%, Drive 
+Auto 30%, Handgun 35%, Jump 30%, Law 30%, Persuade 
+55%, Psychology 30%, Stealth 40%.
+Languages
+Arabic 55%, English 55%, French 75%.
+Nigel Wassif, 43,  
+proprietor of the Cairo Bulletin and British spy
+STR 55	
+CON 65	
+SIZ 65	
+DEX 55	
+INT 75 
+APP 65	
+POW 75	
+EDU 60	
+SAN 75	
+HP 13
+DB: 0	
+Build: 0	
+Move: 6	
+MP: 15	
+Luck: 35
+Combat
+Attacks per round: 1
+Brawl	
+	
+50% (25/10), damage 1D3
+Polo mallet	 	
+50% (25/10), damage 1D6
+Dodge	
+	
+40% (20/8) 
+Skills
+Accounting 20%, Archaeology 5%, Charm 70%, Credit Rating 
+95%, Drive Auto 30%, History 80%, Law 15%, Library Use 
+35%, Persuade 60%, Psychology 55%, Ride 50%, Spot Hidden 
+65%, Stealth 60%, Tennis 35%.
+Languages
+Arabic 70%, English 80%, French 70%. 
+Dr. Ali Kafour, 63, curator and ritual magician
+STR 35	
+CON 70	
+SIZ 50	
+DEX 65	
+INT 90 
+APP 75	
+POW 80	
+EDU 90	
+SAN 50	
+HP 12
+DB: 0	
+Build: 0	
+Move: 5	
+MP: 16	
+Luck: 40
+Combat
+Attacks per round: 1
+Brawl	
+	
+25% (12/5), damage 1D3
+Dodge	
+	
+35% (17/7) 
+Skills
+Anthropology 35%, Archaeology 95%, Credit Rating 75%, 
+Cthulhu Mythos 15%, Drive Auto 30%, History (Egyptian) 
+95%, Law (Antiquities) 90%, Library Use 95%, Occult 80%, 
+Persuade 60%, Psychology 50%, Science (Astronomy) 40%, 
+Science (Geology) 25%, Spot Hidden 50%, Stealth 40%.
+Languages
+Arabic 90%, Coptic 25%, Demotic Egyptian 65%, Egyptian 
+Greek 40%, Egyptian Hieroglyphs 90%, English 65%, French 
+80%, Hebrew 60%, Latin 40%.
+Spells: Chant of Thoth, Enchanted Dust of Anubis*, Flash of 
+Ra*, Seal of Isis*, Voice of Ra*, Ward of Anubis*, other spells 
+at the Keeper’s discretion.
+*See Appendix B: Spells.
+
+--- Page 378 ---
+
+375
+375
+EGYPT
+Dr. Emile Vabreaux, 39, police forensics expert
+STR 65	
+CON 60	
+SIZ 60	
+DEX 65	
+INT 80 
+APP 50	
+POW 65	
+EDU 90	
+SAN 65	
+HP 12
+DB: +1D4	 Build: 1	
+Move: 9	
+MP: 13	
+Luck: 35
+Combat
+Attacks per round: 1
+Brawl	
+	
+45% (22/9), damage 1D3+1D4
+.38 service revolver	
+50% (25/10), damage 1D10
+Dodge	
+	
+45% (22/9) 
+Skills
+Library Use 60%, Persuade 60%, Psychology 50%, Science 
+(Chemistry) 60%, Science (Forensics) 70%, Science 
+(Pharmacy) 65%, Spot Hidden 65%.
+Languages
+Arabic 30%, English 60%, French 90%. 
+Egyptian Policeman/Guard, steadfast professionals
+Use this profile for reputable law enforcement and guards.
+STR 75	
+CON 55	
+SIZ 85	
+DEX 50	
+INT 60 
+APP 40	
+POW 60	
+EDU 60	
+SAN 50	
+HP 14
+DB: +1D4	 Build: 1	
+Move: 7	
+MP: 12	
+Luck: —
+Combat
+Attacks per round: 1
+Brawl	
+	
+55% (27/11), damage 1D3+1D4
+.38 service revolver	
+50% (25/10), damage 1D10
+Dodge	
+	
+55% (27/11) 
+Skills
+Climb 40%, First Aid 50%, Intimidate 55%, Jump 40%, Law 
+45%, Spot Hidden 55%, Stealth 50%.
+Languages
+Arabic 60%, English 35%, French 40%. 
+IBN TULUN MOSQUE
+Ahmed al-Dhahabi, 73, nazir of Ibn Tulun
+STR 25	
+CON 35	
+SIZ 50	
+DEX 50	
+INT 80 
+APP 70	
+POW 50	
+EDU 90	
+SAN 40	
+HP 8
+DB: –1	
+Build: –1	
+Move: 4	
+MP: 10	
+Luck: 25
+Combat
+Attacks per round: 1
+Brawl	
+	
+25% (12/5), damage 1D3–1
+Dodge	
+	
+25% (12/5) 
+Skills
+Archaeology 35%, Cthulhu Mythos 10%, First Aid 75%, 
+History 55%, Law (Muslim) 90%, Lore (Qur’an) 99%, Occult 
+25%, Persuade 50%, Science (Astronomy) 25%, Spot Hidden 
+70%, Stealth 40%, Throw 30%.
+Languages
+Arabic 90%, Egyptian Hieroglyphs 15%, English 40%, French 75%. 
+Nessim Efti, 90, bearer of the Sword of Akmallah
+STR 50	
+CON 50	
+SIZ 50	
+DEX 40	
+INT 90 
+APP 30	
+POW 60	
+EDU 90	
+SAN 50	
+HP 10
+DB: 0	
+Build: 0	
+Move: 2	
+MP: 12	
+Luck: 30
+Combat
+Attacks per round: 1
+Brawl	
+	
+35% (17/7), damage 1D3
+Sword of Akmallah 	
+55% (27/11), damage 1D8+1 
+	
+	
+(magical weapon*)
+Dodge	
+	
+30% (15/6) 
+*Sword is able to injure creatures resistant to mundane weapons.
+Pulp Talents
+Rapid Attack: spend 10 Luck points to gain an additional 
+melee attack for one combat round.
+Skills
+Archaeology 10%, Cthulhu Mythos 10%, History 80%, Law 
+(Muslim) 95%, Lore (Qur’an) 95%, Medicine 25%, Persuade 
+50%, Science (Astronomy) 15%, Spot Hidden 70%, Stealth 60%.
+Languages
+Arabic 95%.
+Guardian Ulama, learned scholars
+Use this profile for the ulama.
+STR 55	
+CON 45	
+SIZ 60	
+DEX 70	
+INT 70 
+APP 50	
+POW 65	
+EDU 70	
+SAN 50	
+HP 10
+DB: 0	
+Build: 0	
+Move: 7	
+MP: 13	
+Luck: —
+Combat
+Attacks per round: 1
+Brawl	
+	
+35% (17/7), damage 1D3
+Scimitar	
+	
+45% (22/9), damage 1D6+2
+Dodge	
+	
+35% (17/7) 
+Skills
+Cthulhu Mythos 5%, Law (Muslim) 55%, Lore (Qur’an) 65%.
+Languages
+Arabic 70%.
+
+--- Page 379 ---
+
+S 
+E 
+R 
+P 
+E 
+N 
+T 
+O
+F 
+Y 
+I 
+G
+376
+376
+CHAPTER 4
+MEMBERS OF  
+THE CLIVE EXPEDITION
+Dr. Henry Clive, 58, archaeologist and cultist
+STR 50	
+CON 75	
+SIZ 45	
+DEX 60	
+INT 80 
+APP 65	
+POW 95	
+EDU 90	
+SAN 00	
+HP 12
+DB: 0	
+Build: 0	
+Move: 7	
+MP: 19	
+Luck: 45
+Combat
+Attacks per round: 1
+Brawl	
+	
+45% (22/9), damage 1D3  
+	
+	
+or large club 1D8
+.38 revolver		
+35% (17/7), damage 1D10
+Dodge	
+	
+40% (20/8) 
+Skills
+Anthropology 40%, Archaeology 80%, Credit Rating 65%, 
+Cthulhu Mythos 20%, Fast Talk 30%, First Aid 65%, History 
+(Egyptian) 90%, Intimidate 40%, Law 15%, Library Use 
+65%, Occult 40%, Persuade 40%, Psychology 20%, Science 
+(Astronomy) 35%, Spot Hidden 75%, Stealth 50%.
+Languages
+Arabic 50%, Demotic Egyptian 45%, Egyptian Hieroglyphs 
+85%, English 90%, French 45%. 
+Spells: Call the Black Sphinx*, Contact Ghoul, Contact 
+Nyarlathotep, Contact Sand-Dweller, Enchant Pipes, 
+Mindblast, Summon/Bind Hunting Horror, Summon Servitor 
+of the Outer Gods, Wrack.
+*See Appendix B: Spells.
+Martin Winfield, 24,  
+archaeologist, sadist, and cultist
+STR 65	
+CON 60	
+SIZ 70	
+DEX 75	
+INT 75 
+APP 70	
+POW 60	
+EDU 80	
+SAN 00	
+HP 13
+DB: +1D4	 Build: 1	
+Move: 8	
+MP: 12	
+Luck: 30
+Combat
+Attacks per round: 1
+Brawl	
+	
+80% (40/16), damage 1D3+1D4 	
+	
+	
+or large club 1D8+1D4
+Riding crop		
+80% (40/16), damage 1D2+1D4 	
+	
+	
+(five minutes of continued thrashing)
+.38 revolver		
+45% (22/9), damage 1D10
+20-g shotgun	
+55% (27/11), damage 2D6/1D6/1D3
+Dodge	
+	
+45% (22/9) 
+Pulp Talents
+Heavy Hitter: spend 10 Luck points to add additional damage 
+die in melee combat.
+Skills
+Archaeology 40%, Credit Rating 50%, Cthulhu Mythos 16%, 
+Drive Auto 80%, Fast Talk 40%, History (Egyptian) 55%, 
+Intimidate 50%, Occult 10%, Ride 45%, Stealth 60%.
+Languages
+Arabic 70%, Egyptian Hieroglyphs 30%, English 80%, French 
+65%, German 29%.
+Spells: Call the Black Sphinx*, Clutch of Nyogtha, Contact 
+Ghoul, Contact Nyarlathotep, Dominate, Enchant Whistle, 
+Summon Byakhee.
+*See Appendix B: Spells.
+James Gardner, 40, archaeologist
+STR 60	
+CON 65	
+SIZ 60	
+DEX 50	
+INT 75 
+APP 55	
+POW 35	
+EDU 80	
+SAN 30	
+HP 12
+DB: 0	
+Build: 0	
+Move: 7	
+MP: 7	
+Luck: —
+Combat
+Attacks per round: 1
+Brawl	
+	
+25% (12/5), damage 1D3
+.32 automatic pistol	
+35% (17/7), damage 1D8
+Dodge	
+	
+25% (12/5) 
+Skills
+Anthropology 70%, Archaeology 35%, Charm 30%, Credit 
+Rating 30%, Cthulhu Mythos 5%, Dreaming 35%, Dream 
+Lore 10%, History (Egyptian) 40%, Library Use 60%, Occult 
+10%, Persuade 25%, Psychology 20%, Stealth 40%.
+Languages
+Arabic 45%, Aramaic 45%, Assyrian 15%, Egyptian 
+Hieroglyphs 15%, English 90%. 
+Johanna Specht, 32, archaeologist and mystic
+STR 65	
+CON 80	
+SIZ 60	
+DEX 80	
+INT 80 
+APP 50	
+POW 85	
+EDU 85	
+SAN 50	
+HP 14
+DB: +1D4	 Build: 1	
+Move: 9	
+MP: 17	
+Luck: 40
+Combat
+Attacks per round: 1
+Brawl	
+	
+45% (22/9), damage 1D3+1D4  
+	
+	
+or knife 1D4+2+1D4
+9mm automatic pistol	
+65% (32/13), damage 1D10
+Dodge	
+	
+40% (20/8) 
+Pulp Talents
+Linguist: identify spoken/written language, plus bonus die 
+to Language rolls.
+
+--- Page 380 ---
+
+377
+377
+EGYPT
+Skills
+Archaeology 60%, Credit Rating 25%, Cthulhu Mythos 6%, 
+Drive Auto 40%, History 20%, Intimidate 40%, Jump 40%, 
+Listen 30%, Occult 70%, Persuade 40%, Pilot (Aircraft) 20%, 
+Psychology 15%, Ride 30%, Science (Astronomy) 20%, Science 
+(Cryptography) 50%, Spot Hidden 50%, Stealth 50%, Swim 
+50%, Throw 45%.
+Languages
+Arabic 70%, Egyptian Hieroglyphs 85%, English 55%, French 
+35%, German 85%. 
+Spells: Augury*, Curse*, Empty Mind*.
+*See Appendix B: Spells.
+Agatha Broadmoor, 67, psychic
+STR 20	
+CON 40	
+SIZ 45	
+DEX 45	
+INT 65 
+APP 45	
+POW 80	
+EDU 60	
+SAN 35	
+HP 8
+DB: –1	
+Build: –1	
+Move: 5	
+MP: 16	
+Luck: —
+Combat
+Attacks per round: 1
+Brawl	
+	
+25% (12/5), damage 1D3–1
+Dodge	
+	
+22% (11/4) 
+Pulp Talents
+Psychic Power, Medium: able to communicate with spirits 
+(see Pulp Cthulhu, page 84).
+Skills
+Archaeology 10%, Charm 45%, Credit Rating 45%, History 
+(Egyptian) 35%, Medium 75%, Occult 25%, Persuade 50%, 
+Science (Astronomy) 40%.
+Languages
+Arabic 25%, Egyptian Hieroglyphs 5%, English 70%, French 20%. 
+ADVERSARIES 
+Omar al-Shakti, appears 55,  
+plantation owner and high priest 
+STR 65	
+CON 125	 SIZ 50	
+DEX 85	
+INT 100 
+APP 80	
+POW 165	 EDU 60	
+SAN 00	
+HP 17
+DB: 0	
+Build: 0	
+Move: 8	
+MP: 33	
+Luck: 90
+Combat
+Attacks per round: 1
+Brawl	
+	
+75% (37/15), damage 1D3  
+	
+	
+or large club 1D8
+Webley revolver	
+35% (17/7), damage 1D10
+Dodge	
+	
+60% (30/12) 
+Special
+Hetep the cat-demon (see following); al-Shakti has a pair 
+of magical scepters similar to those of Edward Gavigan and 
+Zahra Shafik, except that al-Shakti’s add 5D20 magic points. 
+He can call his scepters to his hands so long as he can see 
+them, and only he can wield them. Tied to his life force, they 
+crumble if he dies.
+Skills
+Accounting 65%, Animal Handling 50%, Archaeology 80%, 
+Cthulhu Mythos 45%, History 85%, Intimidate 70%, Law 
+65%, Listen 70%, Occult 95%, Persuade 75%, Psychology 90%, 
+Science (Pharmacy) 95%, Spot Hidden 90%, Stealth 75%.
+Languages
+Arabic 95%, Aramaic 70%, Classical Greek 98%, Chinese 
+(Mandarin) 90%, Chinese (Shanghainese) 70%, Coptic 90%, 
+Demotic Egyptian 80%, Egyptian Hieroglyphs 95%, English 
+90%, French 95%, Hebrew 98%, Hindustani 80%, Latin 98%, 
+Swahili 45%.
+Armor: none, but al-Shakti’s Two Scepters absorb 1D10 points of 
+magical damage (e.g. if three Shrivelling spells were cast at him, 
+the scepters would absorb 1D10 points of damage from each spell, 
+each rolled separately). There is no limit to the duration of this 
+defense but al-Shakti must keep the scepters crossed.
+Spells
+Call the Black Sphinx*, Contact Nyarlathotep, Dominate, Evil 
+Eye, Fist of Yog-Sothoth, Flesh Ward, Implant Fear, Mindblast, 
+Pharaoh’s Breath*, Pharaoh’s Wrath*, Summon/Bind Fire 
+Vampire, Wither Limb, and others as the Keeper wishes. 
+*See Appendix B: Spells.
+
+--- Page 381 ---
+
+S 
+E 
+R 
+P 
+E 
+N 
+T 
+O
+F 
+Y 
+I 
+G
+378
+378
+CHAPTER 4
+Hetep, cat-demon
+Omar al-Shakti’s pretty white cat is more than something to 
+hold in his lap. In one combat round it can transform itself into 
+a cat-demon, which walks on its hind legs, looking something 
+like a horrible, hairless, wrinkled lion. Hetep understands 
+al-Shakti’s messages (and vice versa), and is always near to to 
+him (if not actually carried by al-Shakti). If slain, the mummy 
+of a cat dead for over a thousand years is all that remains.
+Cat Form
+STR 30 	
+CON 20	
+SIZ 05	
+DEX 80	
+INT 75
+APP —	
+POW 125	 EDU —	
+SAN —	
+HP 2
+DB: –2 	
+Build: –2	
+Move: 9	
+MP: 25	
+Luck: —
+Demon Form
+STR 105	
+CON 100	 SIZ 60	
+DEX 90	
+INT 75
+APP —	
+POW 125	 EDU —	
+SAN —	
+HP 16
+DB: +1D6	 Build: 2	
+Move: 10	 MP: 25	
+Luck: —
+Combat
+Attacks per round: 2 (claw, bite, tongue lash)
+Tongue Lash (mnvr): consists of a whiplash of a 6 foot (2 
+m) long scratchy tongue, which first loops around the throat 
+of the target before beginning to choke them (1D6 damage 
+per round). Once attached, Hetep usually then transforms 
+into its demon form while continuing the choke, reeling itself 
+onto the horrified victim’s torso, and ripping out the target’s 
+stomach with its claws. An opposed DEX roll is required to 
+slip free from the tongue, or an opposed STR roll to break free. 
+The tongue can also be severed by 5 points of damage from 
+an edged weapon (held by someone other than the victim).
+Cat form attacks
+Fighting	
+	
+35% (17/7), damage 1D4–2 	
+	
+	
+(min 1)
+Tongue Lash (mnvr)	
+65% (32/13), damage 1D6 per round
+Dodge	
+	
+65% (32/13)
+Cat-Demon form attacks
+Fighting 	
+	
+70% (35/14), damage 1D6+1D6
+Tongue Attack (mnvr)	
+65% (32/13), damage 1D6 per round
+Dodge	
+	
+45% (22/9)
+Skills
+Arabic 30%, Climb 85%, Coptic 30%, Demotic Egyptian 30%, 
+English 30%, Jump 95%, Stealth 95%, Track 75%.
+Armor: none.
+Spells: none.
+Sanity loss: 2/1D6+1 Sanity points to see Hetep in cat-demon form; 
+0/1D3 Sanity points to see the cat-demon’s desiccated mummy.
+Sharifa Rawash (a.k.a. Nitocris), appears 29, 
+the revivified queen
+These statistics represent Nitocris/Sharifa after about six 
+months of life in the 20th century. In her rejuvenated form, 
+she is a beautiful woman.
+STR 60	
+CON 75	
+SIZ 60	
+DEX 65	
+INT 80 
+APP 90	
+POW 80	
+EDU 60	
+SAN 00	
+HP 13
+DB: 0	
+Build: 0	
+Move: 8	
+MP: 16	
+Luck: 80
+Combat
+Attacks per round: 1
+Poison: Sharifa brews a Strong poison, which she coats her 
+fingernails and weapons in. The poison takes effect after ten 
+combat rounds, inflicting 2D10 damage; if the victim succeeds 
+in an Extreme CON roll the poison damage is halved.
+Brawl	
+	
+60% (30/12), damage 1D3 or 	
+	
+	
+dagger 1D6 + poison damage (2D10)
+Fingernails	 	
+60% (30/12), damage 1D3 + 	
+	
+	
+poison damage (2D10)
+Dodge	
+	
+35% (17/7) 
+Pulp Talents
+Smooth Talker: bonus die to Charm rolls.
+Tough Guy: spend 10 Luck points to shrug off up to 5 hit 
+points of damage in one combat round.
+Skills
+Archaeology 30%, Charm 65%, Cthulhu Mythos 40%, History 
+(Egyptian) 60%, Fast Talk 75%, Intimidate 60%, Occult 60%, 
+Persuade 60%, Psychology 50%, Science (Pharmacy) 45%, 
+Spot Hidden 80%, Stealth 75%, Throw 55%.
+Languages
+Arabic 60%, English 20%, French 10%, Sixth Dynasty 
+Egyptian 95%.
+Armor: if worn, her Crown, Necklace, and Girdle (combined) 
+provide 15 armor points of magical protection over her entire 
+body.
+Spells: Call the Black Pharaoh (Contact Nyarlathotep), 
+Clutch of Nyogtha, Gate, Implant Fear, Seal of Nephren-Ka*, 
+Shrivelling, Wrack, and others as the Keeper wishes. 
+Sanity loss: none for seeing Nitocris’ rejuvenated appearance; 
+at the Keeper’s discretion, if killed, her appearance decays 
+rapidly into that of a centuries-old mummy, provoking the 
+loss of 1/1D6 Sanity points.
+*See Appendix B: Spells.
+
+--- Page 382 ---
+
+379
+379
+EGYPT
+AVERAGE BROTHERHOOD CULTISTS (EGYPT) ASSORTED THUGS
+Use these profiles for run-of-the-mill cultists, as well as for Zahra Shafik’s cadre of loyal cultists.
+1
+2
+3
+4
+5
+6
+7
+STR
+55
+60
+55
+50
+45
+50
+60
+CON
+45
+35
+45
+50
+55
+50
+90
+SIZ
+55
+65
+50
+65
+65
+50
+60
+DEX
+60
+50
+50
+65
+65
+60
+55
+INT
+50
+60
+55
+65
+65
+65
+55
+APP
+35
+40
+45
+40
+30
+45
+40
+POW
+20
+35
+35
+40
+50
+55
+45
+EDU
+20
+45
+60
+15
+75
+50
+15
+SAN
+00
+00
+00
+00
+00
+00
+00
+HP
+10
+10
+9
+11
+12
+10
+15
+DB
+0
++1D4
+0
+0
+0
+0
+0
+Build
+0
+1
+0
+0
+0
+0
+0
+Move
+8
+7
+8
+8
+8
+8
+8
+MP
+4
+7
+7
+8
+10
+11
+9
+Luck: —
+Combat
+Attacks per round: 1
+Brawl	
+	
+35% (17/7), damage 1D3+DB  
+	
+	
+or large knife/club 1D6+DB
+Short sword	
+35% (17/7), damage 1D6+1+DB
+Dodge	
+	
+30% (15/6) 
+Pulp Combat
+Attacks per round: 1
+Brawl	
+	
+55% (27/11), damage 1D3+DB  
+	
+	
+or large knife/club 1D6+DB
+Short sword	
+55% (27/11), damage 1D6+1+DB
+Dodge	
+	
+40% (20/8) 
+Skills
+Climb 35%, Cthulhu Mythos 11%, Fast Talk 35%, Jump 30%, 
+Listen 45%, Spot Hidden 45%, Stealth 45%.
+Languages
+Arabic 60%, English 15%.
+
+--- Page 383 ---
+
+S 
+E 
+R 
+P 
+E 
+N 
+T 
+O
+F 
+Y 
+I 
+G
+380
+380
+CHAPTER 4
+ADDITIONAL CULTISTS OF THE BROTHERHOOD (RESURRECTION CEREMONY)
+Use these profiles for those at Nitocris' resurrection ceremony.
+1
+2
+3
+4
+5
+6
+7
+8
+STR
+85
+75
+80
+60
+45
+50
+55
+70
+CON
+35
+35
+40
+50
+55
+50
+90
+50
+SIZ
+80
+60
+90
+50
+55
+40
+55
+50
+DEX
+80
+50
+50
+65
+65
+60
+55
+60
+INT
+70
+45
+40
+55
+50
+50
+40
+45
+APP
+75
+40
+45
+40
+30
+45
+30
+20
+POW
+70
+35
+35
+40
+50
+55
+45
+50
+EDU
+20
+15
+15
+15
+20
+25
+15
+15
+SAN
+00
+00
+00
+00
+00
+00
+00
+00
+HP
+11
+9
+13
+10
+11
+9
+14
+10
+DB
++1D6
++1D4
++1D6
+0
+0
+0
+0
+0
+Build
+2
+1
+2
+0
+0
+0
+0
+0
+Move
+8
+8
+7
+9
+8
+9
+8
+9
+Luck: —
+Combat
+Attacks per round: 1
+Brawl	
+	
+40% (20/8), damage 1D3+DB  
+	
+	
+or large knife/club 1D6+DB
+Short sword	
+40% (20/8), damage 1D6+1+DB
+Dodge	
+	
+30% (15/6) 
+Pulp Combat
+Attacks per round: 1
+Brawl	
+	
+60% (30/12), damage 1D3+DB  
+	
+	
+or large knife/club 1D6+DB
+Short sword	
+60% (30/12), damage 1D6+1+DB
+Dodge	
+	
+50% (20/8) 
+Skills
+Climb 45%, Cthulhu Mythos 10%, Fast Talk 30%, Jump 40%, 
+Listen 45%, Spot Hidden 35%, Stealth 35%.
+Languages
+Arabic 60%, English 10%.
+
+--- Page 384 ---
+
+381
+381
+EGYPT
+MONSTERS 
+Million Favored Ones:  
+Leeches, horrendous bloodsuckers
+These large, multiple-mouthed leeches are among 
+Nyarlathotep’s “Million Favored Ones.” These horrific leeches 
+are capable of articulating and maneuvering the bones and 
+corpses of sacrificial victims, using their muscular bodies to 
+parody human movement. When they open their fanged 
+mouths, their songs of praise to their god have a piercing, 
+ululating tone that set the nerves on edge.
+Statistics are provided for an individual leech and for when 
+multiple leeches are animating a host form (corpse or skeleton).
+char.	
+Leech	
+Host	
+rolls (for host form)
+STR 	
+5	
+50		
+(3D6) × 5
+CON 	
+5	
+55		
+(3D6) × 5
+SIZ 	
+5	
+65		
+(2D6+6) × 5
+POW 	
+35	
+35		
+(2D6) × 5
+DEX 	
+80 	
+65		
+(2D6+6) × 5
+HP: 	
+4	
+12
+Average Damage Bonus: 0
+Average Build: 0 	
+Move: 8 (leech) / 6 (animated host) 
+Luck: —
+Combat
+Attacks per round: 1 (single leech) or 1/1D3 (animated host) 
+Fighting: an individual leech bite inflicts 1D3 damage. A 
+successful bite means the leech holds on and automatically 
+inflicts 1D3 points of damage per round. Alternatively, rather 
+than continue biting, it may worm its way to the victim’s mouth 
+(taking one round, no damage), causing 1D3 choking damage 
+per round. A successful Hard STR roll is required to pull the 
+leech off/out; reduced to a Regular roll if another person helps. 
+Animated Form: multiple (1D3) leeches may jump from the 
+host to attack (per Fighting, above), or the “host” performs a 
+single bash attack (e.g. punch), inflicting 1D6 damage.
+Bite	
+	
+35% (17/7), damage 1D3 per 	
+	
+	
+round (bite or choke)
+Bash	
+	
+50% (25/10), damage 1D6 per round
+Dodge	
+	
+40% (20/8) 
+Armor: 1-point slimy skin.
+Spells: none.
+Sanity loss: 0/1D3 Sanity to see a leech, 1/1D4+1 to see a 
+corpse or skeleton animated by leeches.
+Children of the Sphinx
+I would not look at the marching things. That I desperately 
+resolved as I heard their creaking joints and nitrous wheezing 
+above the dead music and the dead tramping. It was merciful 
+that they did not speak ... but God! their crazy torches began 
+... to cast shadows on the surface of those stupendous columns. 
+Hippopotami should not have human hands and carry torches ... 
+men should not have the heads of crocodiles....
+—H. P. Lovecraft, Under the Pyramids
+These horrors come in many varieties; Lovecraft speaks of 
+them with the heads of bulls, ibises, falcons, and cats, and of 
+objects walking with nothing above the waist. Children of the 
+Sphinx may come as any human-animal composite.
+Except for “objects walking with nothing above the 
+waist,” all children of the Sphinx can attack in some form 
+or another. These creatures should only be found beneath 
+the Great Sphinx in this campaign but, beyond that, could 
+certainly be found anywhere that dynastic Egypt left traces.
+char.	
+average	
+rolls	
+	
+STR 	
+70	
+(4D6) ×5	
+	
+CON 	
+65	
+(2D6+6) ×5	
+SIZ 	
+50	
+(3D6) ×5	
+	
+INT 	
+50	
+(3D6) ×5	
+	
+POW 	
+50	
+(3D6) ×5	
+	
+DEX 	
+35	
+(2D6) ×5	
+	
+Hit Points: 11
+Average Damage Bonus: 0
+Average Build: 0
+Move: 8
+Luck: —
+Combat
+Attacks per round: 1 
+Fighting: most of these bizarre creatures lack melee weapons 
+and tend to strike with either their hands and feet or their 
+bite/gore/peck attack (depending on the creature). Children 
+of the Sphinx charge in groups, knock down their victims, 
+and inflict damage.
+Fighting	
+	
+55% (27/11), damage see below
+Dodge	
+	
+20% (10/4)
+
+--- Page 385 ---
+
+S 
+E 
+R 
+P 
+E 
+N 
+T 
+O
+F 
+Y 
+I 
+G
+382
+382
+CHAPTER 4
+Attacks and Damage by Creature Type
+Creature Type (Attack)
+Damage
+Cheetah (Bite)
+1D6+DB
+Bull (Gore)
+2D4+DB
+Crocodile (Bite)
+1D10+DB
+Hippopotamus (Bite)
+2D6+DB
+Falcon (Peck or Claw)
+1D4+DB
+Ibis (Peck)
+1D3+DB
+Armor: none.
+Spells: none.
+Sanity loss: 0/1D8 Sanity points to see a child of the Sphinx.
+Sand-dwellers, Stalkers of the Wastes
+Humanoid, sand-encrusted servants of the Great Old Ones.
+STR 50	
+CON 65	
+SIZ 80	
+DEX 65	
+INT 50 
+APP —	
+POW 50	
+EDU —	
+SAN —	
+HP 14
+DB: +1D4	 Build: 1	
+Move: 8	
+MP: 10	
+Luck: —
+Combat
+Attacks per round: 2 (claws, other unarmed attacks)
+Fighting 	
+	
+30% (15/6), damage 1D6+1D4
+Dodge	
+	
+30% (15/6)
+Skills
+Stealth 55%, Listen 60%, Spot Hidden 50%.
+Armor: 3-point rough hide.
+Spells: sand-dwellers have a 30% chance of knowing 1D6 
+spells (suggested: Flesh Ward, Implant Fear, Mindblast, 
+Shrivelling, Wither Limb, Wrack).
+Sanity loss: 0/1D6 Sanity points to see a sand-dweller.
+SAMPLE CHILDREN OF THE SPHINX
+Cheetah
+Bull
+Crocodile
+Hippo
+Falcon
+Ibis
+STR
+40
+60
+90
+80
+105
+75
+CON
+75
+75
+65
+75
+90
+60
+SIZ
+70
+70
+65
+65
+35
+35
+DEX
+50
+40
+50
+30
+50
+25
+INT
+30
+15
+15
+15
+20
+30
+POW
+55
+55
+50
+60
+55
+55
+HP
+14
+14
+13
+14
+12
+9
+DB
+0
++1D4
++1D4
++1D4
++1D4
+0
+Build
+0
+1
+1
+1
+1
+0
+Move
+7
+7
+8
+8
+9
+8
+MP
+11
+11
+10
+12
+11
+11
+Attack
+Bite
+Gore
+Bite
+Bite
+Peck or Claw
+Peck
+
+--- Page 386 ---
+
+383
+383
+EGYPT
+The Black Pharaoh, avatar of Nyarlathotep
+Tall and handsome, haughty and magnificent, full-voiced 
+and exuding an aura of glittering malice. The Black Pharaoh 
+may wear a tailored suit of dark fabric, or the full regalia of 
+a pharaoh. 
+STR 105	
+CON 75	
+SIZ 75	
+DEX 90	
+INT 430 
+APP —	
+POW 500	 EDU —	
+SAN —	
+HP 15
+DB: +1D6	 Build: 2	
+Move: 9	
+MP: 100	
+Luck: —
+Combat
+Attacks per round: 1 per two rounds (energy blast)
+Fighting: the Black Pharaoh prefers to utilize two hunting 
+horrors that accompany him, rather than engage in combat 
+himself. If the hunting horrors cannot take care of the 
+situation, the Black Pharaoh takes a hand, using the rod 
+and ring of his office as foci through which he casts energy 
+blasts. Each blast inflicts an automatic 20 points of damage 
+to a random target. Nyarlathotep inflicts such damage every 
+other combat round by means of a casual gesture. Victims are 
+horrifically seared and withered.
+Energy Blast	
+Automatic, damage, 20 points
+ 
+Armor: none, although may regenerate hit points at a rate of 
+1D6 per magic point expended. However, if his adversaries 
+inflict 15 or more points of damage to the Black Pharaoh, 
+his body splits open and an indescribably monstrous, mind-
+wrenching form squeezes its way out of the human shell 
+before departing (refer to the Bloody Tongue aspect, page 
+447, Africa).
+Spells: the Black Pharaoh knows all Mythos spells.
+Sanity loss: 0/1D2 Sanity points to see the Black Pharaoh in 
+his human aspect, 1D10/1D100 to see his monstrous form.
+The Black Sphinx, spawn of Nyarlathotep
+A monstrous spawn and herald, the Black Sphinx is immense, 
+powerful, savage, and near-mindless. From time to time, for 
+reasons passing understanding, Nyarlathotep takes this form 
+(known as The Faceless God or The Beast). This profile deals 
+with the Black Sphinx as Nyarlathotep’s spawn, rather than 
+an avatar.
+STR 800	
+CON 400	 SIZ 1,750	 DEX 45	
+INT 05 
+APP —	
+POW 375	 EDU —	
+SAN —	
+HP 85
+DB: +15D6	Build: 16	
+Move: 8	
+MP: 75	
+Luck: —
+Combat
+Attacks per round: 3 (forepaw smash, tentacle grab, or munch)
+Tentacle Grab (mnvr): the Black Sphinx first grabs its victim 
+with its tentacles; the target may attempt to wriggle free with 
+a DEX roll (as their next action). If they fail to escape, the 
+Black Sphinx automatically inflicts “munch” damage on the 
+next turn. The victim can continue to attempt to escape each 
+round (if they are still alive). 
+Fighting	
+	
+60% (30/12), damage 15D6
+Tentacle Grab (mnvr)	
+40% (20/10), allows a munch
+Munch	
+	
+automatic if grabbed,  
+	
+	
+damage 15D6 per round
+Skills
+Sense Prey 35%.
+Armor: 19-point unearthly hide. 
+Spells: Contact Nyarlathotep.
+Sanity loss: 1D4/1D8 Sanity points to see just the Black 
+Sphinx’s monstrous paw, 1D8/1D20 Sanity points to see the 
+Black Sphinx in its entirety.
+
+--- Page 387 ---
+
+S 
+E 
+R 
+P 
+E 
+N 
+T 
+O
+F 
+Y 
+I 
+G
+384
+384
+INTRODUCTION
+
+--- Page 388 ---
+
+385
+385
+KENYA
+Opposite: M'Weru directs the Spawn of Nyarlathotep
+KENYA
+and Nails Nelson, as well as Sam Mariga, Dr. Starret, Neville 
+Jermyn, and Colonel Endicott. If they questioned Arthur 
+Emerson (see Emerson Imports, page 138, America), they 
+know that a Mombasan exporter named Ahja Singh made 
+regular shipments to America (Horror at Ju-Ju House, page 
+154, America). They may also know the priestess’ name: 
+M’Weru. If they have already met Jack Brady in Shanghai, 
+then they likely have a detailed map showing the way to the 
+Mountain of the Black Wind. If they have none of these 
+leads, it’s hard to understand why they sailed to Kenya! If 
+they did anyway, use the Nairobi Star (page 403) to direct 
+them to one or more of the key contacts in Nairobi. 
+Note: all of the Kenyan NPCs noted above are described in 
+the Dramatis Personae: Kenya, page 391.
+The Carlyle Expedition came to Kenya in 1919 under the 
+pretense of going on a safari in the Great Rift Valley. They later 
+spoke of a trek to confirm data gathered in Egypt concerning 
+the followers of a religious leader who migrated southward 
+into Kenya. 
+While in Nairobi, the Carlyle principals stayed at 
+Hampton House (page 405). While there, they met with 
+Neville Jermyn, who organized 20 bearers for the expedition. 
+The Carlyle Expedition also purchased a small quantity 
+of medical supplies from Dr. Horace Starret. In addition, 
+members of the expedition met with Taan Kaur, a local 
+Bloody Tongue cultist, who provided contacts and guidance 
+on how they might travel to the Mountain of the Black Wind.
+With a few days to kill while preparations were made 
+for their journey to the Mountain of the Black Wind, the 
+expedition chose to spend a night at Colonel Endicott’s 
+game lodge (see the sidetrack Scenario, The Game Lodge, 
+page 413).
+Jack Brady (Dramatis Personae: China, page 534) was 
+increasingly appalled by Carlyle’s nightmarish ravings and by 
+It was in the hot autumn that I went through the night with the restless crowds to see Nyarlathotep; 
+through the stifling night and up the endless stairs into the choking room.
+— H. P. Lovecraft, Nyarlathotep
+Wherein is retraced the final journey of the Carlyle 
+Expedition, leading inland to the ultimate horror at the 
+Mountain of the Black Wind.
+Investigators have a chance to acquire some useful items and 
+to learn valuable information while at work in Kenya. Smart 
+investigators will examine every lead before jumping off 
+toward the Aberdare Forest and the perils of the Mountain of 
+the Black Wind. In Mombasa and Nairobi the investigators 
+are probably harassed by Taan Kaur, while M’Weru (if she 
+is aware of them) waits until they are isolated targets in the 
+countryside.
+Help may come from friendly tribes, and especially from 
+African magicians in the area. Little or no help is likely 
+from the colonial administration and police; the scattered 
+contingents of the King’s African Rifles are unlikely to 
+take action without direct orders or without clear and 
+present need. Those few high-level representatives of the 
+Crown are ignorant of organized Bloody Tongue activity.
+No white man in Kenya Colony knows the location of 
+the Mountain of the Black Wind; they are utterly oblivious 
+to its Mythos connections and know it, instead, as Mount 
+Satima, the highest peak in the Aberdare Range. (The 
+English term is just a translated one, based on the Maasai 
+name for the mountain: Oldoinyo Lesatima, the Mountain 
+of the Bull Calf. Similarly, Mount Kenya is called that 
+name only by the white settlers; black Africans call it Kere-
+Nyaga, the home of the creator god, Ngai.)
+PICKING UP THE TRAIL
+The primary mystery to be solved in Nairobi is the location of 
+the Mountain of the Black Wind. If the investigators talked 
+with Jonah Kensington in New York and acquired Elias’ 
+Nairobi notes (Carlyle Papers America #12), they have 
+leads to Johnstone Kenyatta, Lt. Mark Selkirk (deceased), 
+CHAPTER
+5
+385

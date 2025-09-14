@@ -1,0 +1,93 @@
+{
+  "name": "Baseball bat",
+  "type": "weapon",
+  "img": "modules/cha-coc-fvtt-en-starterset/assets/ca-weapons/hand-to-hand/baseball-bat.webp",
+  "system": {
+    "description": {
+      "value": "",
+      "chat": "",
+      "special": "",
+      "keeper": ""
+    },
+    "wpnType": "",
+    "skill": {
+      "main": {
+        "name": "i.skill.fighting-brawl",
+        "id": ""
+      },
+      "alternativ": {
+        "name": "",
+        "id": ""
+      }
+    },
+    "range": {
+      "normal": {
+        "value": 0,
+        "units": "",
+        "damage": "1D8"
+      },
+      "long": {
+        "value": 0,
+        "units": "",
+        "damage": ""
+      },
+      "extreme": {
+        "value": 0,
+        "units": "",
+        "damage": ""
+      }
+    },
+    "usesPerRound": {
+      "normal": "1",
+      "max": "",
+      "burst": null
+    },
+    "bullets": "",
+    "ammo": 0,
+    "malfunction": "",
+    "blastRadius": null,
+    "properties": {
+      "addb": true,
+      "melee": true
+    },
+    "price": {
+      "standard": "3",
+      "modernPulp": "35",
+      "modern": "35"
+    }
+  },
+  "folder": "TdapKVh5BC0waIpr",
+  "flags": {
+    "CoC7": {
+      "cocidFlag": {
+        "id": "i.weapon.baseball-bat",
+        "lang": "en",
+        "priority": 0,
+        "eras": {
+          "standard": true,
+          "modern": true,
+          "modernPulp": true
+        }
+      }
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.348",
+    "systemId": "CoC7",
+    "systemVersion": "7.19",
+    "createdTime": 1757655918451,
+    "modifiedTime": 1757655922223,
+    "lastModifiedBy": "w41F2zx5Gd2Wrk7K",
+    "exportSource": {
+      "worldId": "masks-of-nyarlathotep",
+      "uuid": "Item.VQziSJ1s5iDwPtxE",
+      "coreVersion": "13.348",
+      "systemId": "CoC7",
+      "systemVersion": "7.19"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

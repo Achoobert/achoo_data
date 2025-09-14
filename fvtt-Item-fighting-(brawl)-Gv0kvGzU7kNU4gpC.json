@@ -1,0 +1,77 @@
+{
+  "name": "Fighting (Brawl)",
+  "type": "skill",
+  "system": {
+    "skillName": "Brawl",
+    "specialization": "Fighting",
+    "description": {
+      "value": "<p>See the \"Call of Cthulhu 7th Edition - Keeper's Rulebook\" page 64</p><p>See the \"Call of Cthulhu Investigator Handbook 7th Edition\" page 106</p><p>See the \"The Cthulhu by Gaslight Investigators Guide\" page 90</p><p>See the \"Cthulhu Dark Ages - 3rd Edition\" page 76</p>",
+      "opposingDifficulty": "",
+      "pushedFaillureConsequences": "",
+      "chat": "",
+      "keeper": ""
+    },
+    "base": "25",
+    "bonusDice": 0,
+    "adjustments": {
+      "personal": null,
+      "occupation": null,
+      "archetype": null,
+      "experiencePackage": null,
+      "experience": null
+    },
+    "value": -1,
+    "attributes": {},
+    "properties": {
+      "fighting": true,
+      "combat": true,
+      "special": true
+    },
+    "flags": {}
+  },
+  "flags": {
+    "CoC7": {
+      "cocidFlag": {
+        "id": "i.skill.fighting-brawl",
+        "lang": "en",
+        "priority": 5,
+        "eras": {
+          "standard": true,
+          "gasLight": true,
+          "gasLightPulp": true,
+          "darkAgesPulp": true,
+          "darkAges": true,
+          "downDarkerTrails": true,
+          "downDarkerTrailsPulp": true,
+          "modernPulp": true,
+          "modern": true,
+          "pulp": true,
+          "regencyPulp": true,
+          "regency": true,
+          "reignOfTerror": true
+        }
+      }
+    }
+  },
+  "img": "modules/call-of-cthulhu-foundryvtt-investigator-wizard/assets/game-icons/lorc/mailed-fist.svg",
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.348",
+    "systemId": "CoC7",
+    "systemVersion": "7.19",
+    "createdTime": 1757654889169,
+    "modifiedTime": 1757654889169,
+    "lastModifiedBy": "w41F2zx5Gd2Wrk7K",
+    "exportSource": {
+      "worldId": "masks-of-nyarlathotep",
+      "uuid": "Item.Gv0kvGzU7kNU4gpC",
+      "coreVersion": "13.348",
+      "systemId": "CoC7",
+      "systemVersion": "7.19"
+    }
+  },
+  "folder": null,
+  "ownership": {
+    "default": 0
+  }
+}

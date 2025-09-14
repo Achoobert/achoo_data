@@ -1,0 +1,104 @@
+{
+  "name": "Corbitt Diaries",
+  "type": "book",
+  "img": "icons/sundries/books/book-black-grey.webp",
+  "folder": "bUoTuGsqBsf3fB9u",
+  "system": {
+    "alternativeNames": [],
+    "author": "Walter Corbitt",
+    "content": "",
+    "date": "Unknown",
+    "description": {
+      "chat": "",
+      "value": "<p>Three bound books are found within—the diaries of a certain W. Corbitt, a former inhabitant of the house, as the address on the flyleaf of volume one testifies.</p><p>The Corbitt Diaries are in English, though sometimes strangely phrased. The three volumes take a total of two days to read, adding +4 to Cthulhu Mythos skill and losing 1D4 Sanity points.</p><p>The diaries describe Corbitt’s various occult experiments, including the summoning of some unearthly spirit and other magic, and clearly describe a spell entitled “Call Forth the Opener of Ways”.The spell takes 2D6 weeks to learn after the diaries have been read.</p>",
+      "keeper": ""
+    },
+    "difficultyLevel": "regular",
+    "fullStudies": 0,
+    "gains": {
+      "cthulhuMythos": {
+        "final": 4,
+        "initial": 4
+      },
+      "occult": 0,
+      "others": []
+    },
+    "initialReading": false,
+    "language": "English",
+    "mythosRating": 4,
+    "sanityLoss": "1D4",
+    "spells": [
+      {
+        "_id": "NFnj8XMpJlQN4AaI",
+        "name": "Call Forth the Opener of Ways",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "folder": "YowDVVeEmTdJLUfQ",
+        "system": {
+          "castingTime": "5 minutes per magic point spent, binding takes 1 round.",
+          "costs": {
+            "magicPoints": 1,
+            "others": "1 magic point per 10% chance of success",
+            "sanity": "1D4"
+          },
+          "description": {
+            "value": "<p>See the Call of Cthulhu - 7th Ed Core Rulebook for information on Summoning and Binding Spells</p>",
+            "keeper": "<p>Alternative title for the spell Summon / Bind Dimensional Shambler</p>"
+          },
+          "source": "Walter Corbitt",
+          "type": {
+            "bind": true,
+            "summon": true
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.call-forth-the-opener-of-ways",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      }
+    ],
+    "study": {
+      "necessary": 2,
+      "progress": 0,
+      "units": "CoC7.days"
+    },
+    "type": {
+      "mythos": true,
+      "occult": false,
+      "other": false
+    }
+  },
+  "flags": {
+    "CoC7": {
+      "cocidFlag": {
+        "id": "i.book.corbitt-diaries",
+        "lang": "en",
+        "priority": 0
+      }
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.348",
+    "systemId": "CoC7",
+    "systemVersion": "7.19",
+    "createdTime": 1757750635860,
+    "modifiedTime": 1757750635860,
+    "lastModifiedBy": "w41F2zx5Gd2Wrk7K",
+    "exportSource": {
+      "worldId": "masks-of-nyarlathotep",
+      "uuid": "Item.pJHXuCqETTD972Sp",
+      "coreVersion": "13.348",
+      "systemId": "CoC7",
+      "systemVersion": "7.19"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}

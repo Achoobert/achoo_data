@@ -1,0 +1,332 @@
+{
+  "name": "NPCs",
+  "folder": "ZytJuPmNXOhTGSqg",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "Augustis Larkin",
+      "type": "text",
+      "_id": "1wDjVwsR8F6kXIn6",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"width:100%;border:none;background:transparent\"><tbody><tr style=\"background:transparent\"><td style=\"width:50%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:100%;aspect-ratio:1/1\" src=\"modules/masks-of-nyarlathotep-data/assets/imgs/0_Peru/People/Augustus%20Larkin.webp\" /></td><td style=\"padding:2rem;font-size:1.5rem\"><p><strong>Name: </strong>Augustis Larkin</p><p><strong>Age: 2</strong>8</p></td></tr><tr style=\"background:transparent\"><td style=\"padding-right:1rem;vertical-align:top\"><h3>Backstory</h3><p>The eldest son of a relatively wealthy colonial family in Kenya who has spent the past few years traveling through South America, drawn to its rich history and untapped potential. He speaks little of his past, preferring instead to focus on the future—specifically, his upcoming expedition into the highlands of Peru. Larkin claims to have uncovered evidence of a long-lost pre-Columbian site, one that promises not only archaeological significance but also the potential for great treasure. His knowledge of the region and its legends is impressive, though he insists he is merely a facilitator, bringing together the right people to make the discovery possible. Though his health seems to trouble him, his determination remains unshaken, and he is eager to enlist those with the skills and courage to aid him in this grand pursuit.</p><section class=\"secret\" id=\"secret-nN9MejOB3hNyuFrP\"><p>He refused to follow in his father’s footsteps, building railways across Africa, and instead became a wastrel, drunk, and womanizer.</p></section><p>.</p><section class=\"secret\" id=\"secret-pguLCHTCX0AqYyRT\"><p>His path through the less reputable parts of Nairobi society brought him to the attention of a beautiful and manipulative young woman named M’Weru</p></section><p>.</p><section class=\"secret\" id=\"secret-fvZVzvhx7JPntDPi\"><p>My Bloody Tongue will grip you tight until you are crushed <br />though<br />You may live long enough to see the skies turn black and all humanity perish. <br />We will meet again.</p></section></td><td style=\"vertical-align:top\"><h3>Personality</h3><p>Augustus Larkin is a soft-spoken yet charismatic man, his genteel manners and warm smile making him an easy figure to trust. Though his health appears fragile, his enthusiasm for adventure is infectious, and he speaks of his upcoming expedition with the air of a man chasing destiny. He has a way of making his companions feel important, emphasizing that they are part of something grand—an expedition that will uncover lost history and, perhaps, great fortune. At times, he seems weary, as though burdened by more than just his ailing health, but he quickly pushes past any signs of weakness to refocus on his mission.</p><p><strong>Description:</strong><br />Larkin is a gaunt man, his pale skin stretched thin over sharp cheekbones, with dark circles beneath his eyes betraying a lack of restful sleep. His blond hair is beginning to thin, and though he dresses in fine, well-tailored suits suited to a gentleman of means, they hang a little loosely on his slender frame. Despite his sickly appearance, he carries himself with quiet confidence, his voice smooth and persuasive. There is an undeniable charm to him, an air of mystery that makes him all the more intriguing to those drawn into his grand expedition.</p><p></p><p>TODO</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.344",
+        "systemId": "CoC7",
+        "systemVersion": "7.9",
+        "createdTime": 1742567893903,
+        "modifiedTime": 1742701909059,
+        "lastModifiedBy": "w41F2zx5Gd2Wrk7K"
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "sort": 200000,
+      "name": "Jackson Elias",
+      "type": "text",
+      "_id": "u209mBfHhJSSJqeT",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"width:100%;border:none;background:transparent\"><tbody><tr style=\"background:transparent\"><td style=\"width:50%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:100%;aspect-ratio:1/1\" src=\"modules/masks-of-nyarlathotep-data/assets/imgs/0_Peru/People/Jackson%20Elias.webp\" /></td><td style=\"padding:2rem;font-size:1.5rem\"><p></p><p><strong>Name: </strong>Jackson Elias</p><p><strong>Race: </strong>African-American</p><p><strong>Age:</strong> 41</p><p><strong>Background: </strong>Writer</p></td></tr><tr style=\"background:transparent\"><td style=\"padding-right:1rem;vertical-align:top\"><h3>Backstory</h3><p>Lorem ipsum dolor sit amet, </p><p>Jackson Elias is a writer, specializing in books about strange and violent cults. He started life as an orphan in Stratford, Connecticut, and learned to make his own way early in life.</p><p>He has no living relatives and no permanent address.</p><p>His best-known book is Sons of Death, exposing modern-day Thuggees in India (see Carlyle Papers America #2 for details of his other books). He speaks several languages fluently and is constantly traveling. </p><p>In Peru, Elias has been using the pseudonym Jesse Hughes and is pretending to be a folklorist to avoid tipping off Augustus Larkin as to his real identity: that of an author researching the kharisiri death cult and figuring out the true goals of Larkin and de Mendoza.</p><section id=\"secret-CEKY48mq2kWCnreh\" class=\"secret\"><p>Elias made his way to Peru and spent four months in the southern Andean highlands, in the region around Lake Titicaca, meeting the local people (such as Nayra, a wisewoman) and researching stories of the kharisiri. He soon realized that many people saw the kharisiri not as stories from history but as a real and tangible threat. While some could only pass on second-hand accounts, a few were able to recount seeing “pale-faced monsters” from personal experience. Currently, Elias considers such first-hand information to illustrate the fact that a death cult is still active in the region. </p><p class=\"p1\">While speaking with the locals, Elias was warned about a man named Luis de Mendoza, a person mentioned by some as a man to be feared. While no one was able to provide concrete proof of any wrongdoings, some referred to de Mendoza as a kharisiri. Elias, ever the rationalist, took this as an indication that the man was a key figure in the death cult rather than an actual monster. Making note of the name, Elias was surprised to encounter de Mendoza in Puno, although the two men did not actually meet there. Instead, Elias followed him from a distance, making notes of his movements and contacts. In so doing, Elias learned of de Mendoza’s association with Augustus Larkin and, ultimately, Larkin’s plan to find and explore a lost pyramid. While no one has been able to confirm the fact, Elias believes that the pyramid and surrounding site are somehow linked to the kharisiri.</p><p class=\"p1\">Elias has now followed Larkin and de Mendoza to Lima to try to determine their goal in recruiting foreigners to join the expedition and what precisely this has to do with the cult. Using a pseudonym, Elias has volunteered to join Larkin’s expedition, hoping that neither Larkin nor de Mendoza realize that he has been investigating them.</p><p class=\"p1\">Elias aims to learn more about Luis de Mendoza and Augustus Larkin and their activities. While de Mendoza may not actually be a kharisiri, he may know information relevant to Elias’ researches or be, somehow, involved in Elias’ supposed death cult; the locals may think de Mendoza is a monster, but Elias believes he is just a man—one who might have ties to the dark truth behind the legends.</p><p class=\"p1\">Aware of how much danger he may be in, Elias is keen to find allies to help with his researches. The investigators may be just the friends heis looking for.</p></section></td><td style=\"vertical-align:top\"><h3>Personality</h3><p>Elias is a lifelong skeptic. While he is fascinated by cults with ghoulish beliefs, he considers their members to be deluded and their evils to be of purely human origin.</p><p>He is social and enjoys an occasional drink. Elias is tough, stable, and punctual, unafraid of brawls or officials. He is mostly self-educated.</p><p><strong>Description</strong>: an African-American man of average height and build, with short hair and a habitual grin. Tends to wear <span class=\"s1\">tweed suits, except when impractical, and usually sports a </span>fedora hat. He smokes a pipe and often gestures with it to emphasize points when talking.</p><p class=\"p1\"><span class=\"s1\"><strong>Traits</strong>: possesses a dark sense of humor and often makes </span><span class=\"s2\">sardonic wisecracks. Behind this veneer, he has a noble and </span>warm nature, prompting him to take risks in protecting <span class=\"s3\">people he cares about or those who are unable to look </span>after themselves.</p><p>He thinks before acting, ascertains the situation based on the accumulated facts before heading into danger, and tries to avoid drawing unnecessary attention to himself.</p><p>.</p><section id=\"secret-btixdKQ2m6DFcRvV\" class=\"secret\"><p>Faced with incontrovertible proof of the Mythos, such as witnessing the transformation of one of the kharisiri, his certainty will crumble. Even if this brings on a bout of madness, the long-term effect is to make Elias all the more determined to get to the bottom of the mystery. Learning that the kharisiri are truly monsters only means that it is more important than ever to stop them. Elias knows that he will have to leave the more bizarre details out of his next book to avoid its being unpublishable and may bemoan the fact whenever something particularly strange or shocking happens. </p></section></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.344",
+        "systemId": "CoC7",
+        "systemVersion": "7.9",
+        "createdTime": 1742567976705,
+        "modifiedTime": 1742571687036,
+        "lastModifiedBy": "w41F2zx5Gd2Wrk7K"
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "sort": 300000,
+      "name": "Peruvian Farmers",
+      "type": "text",
+      "_id": "ijHKlfmO6zynmgiX",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"border-collapse:separate;width:100%;border:none;background:transparent\"><tbody><tr style=\"background:transparent\"><td style=\"padding-left:1rem\" colspan=\"2\"><h3>Julio Céspedes</h3></td><td style=\"padding-left:1rem\" colspan=\"2\"><h3>Domingo Céspedes</h3></td></tr><tr style=\"background:transparent\"><td style=\"width:20%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:90%;margin-left:5%;aspect-ratio:1/1\" src=\"modules/masks-of-nyarlathotep-data/assets/imgs/0_Peru/People/JulioCespedes.webp\" /></td><td style=\"padding-left:1rem\"><p style=\"font-size:0.7em\">Julio is a heavy-set man with thick eyebrows and a perpetual scowl; he wears a green woolen jacket and wide-brimmed hat.</p></td><td style=\"width:20%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:90%;margin-left:5%;aspect-ratio:1/1\" src=\"modules/masks-of-nyarlathotep-data/assets/imgs/0_Peru/People/Domingo%20Cespedes.webp\" /></td><td style=\"padding-left:1rem\"><p style=\"font-size:0.7em\">A wiry youth with unkempt dark hair</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.344",
+        "systemId": "CoC7",
+        "systemVersion": "7.9",
+        "createdTime": 1742568035229,
+        "modifiedTime": 1742702261808,
+        "lastModifiedBy": "w41F2zx5Gd2Wrk7K"
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "sort": 500000,
+      "name": "Luis de Mendoza",
+      "type": "text",
+      "_id": "VuRtV38bEzUfalcS",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"width:100%;border:none;background:transparent\"><tbody><tr style=\"background:transparent\"><td style=\"width:50%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:100%;aspect-ratio:1/1\" src=\"modules/masks-of-nyarlathotep-data/assets/imgs/0_Peru/People/Luis%20de%20Mendoza.webp\" /></td><td style=\"padding:2rem;font-size:1.5rem\"><p><strong>Name: </strong>Luis de Mendoza</p></td></tr><tr style=\"background:transparent\"><td style=\"padding-right:1rem;vertical-align:top\"><h3>Backstory</h3><p>Luis de Mendoza is a quiet and imposing figure, ever present at Augustus Larkin’s side but offering little in the way of conversation. </p><p>Officially, he serves as Larkin’s assistant, though he seems more bodyguard than aide, watching over his employer with an unwavering intensity. </p><p>Little is known about de Mendoza’s past—Larkin simply describes him as a loyal and experienced man who has been invaluable in preparing for the expedition. He speaks rarely, and when he does, his words are clipped and businesslike, revealing no personal details. </p><p>There is something unsettling about his presence, an air of quiet menace that lingers even when he stands perfectly still, his dark eyes scanning those around him with quiet calculation.</p><section id=\"secret-JyrrvOx04jKzCDZC\" class=\"secret\"><p>de Mendoza knows that an African man with an American accent has been asking questions—thus, he is already suspicious of Elias.</p></section><p>.</p></td><td style=\"vertical-align:top\"><h3>Personality</h3><p>Luis de Mendoza is a man of few words and even fewer expressions. He carries himself with an air of cold efficiency, speaking only when necessary and never offering more than is required. His presence is unsettling, not for anything he does outright, but for the way he watches—silent, patient, unreadable. There is no warmth in his demeanor, no friendliness to his gaze, only an unwavering focus </p><p><strong>Description:</strong><br />Tall and gaunt, de Mendoza has the weathered features of a man who has spent much of his life under the sun.</p><p>His deep-set, dark eyes are sharp and intense, always scanning his surroundings with quiet vigilance. His thin lips rarely part except to speak in short, curt sentences, and he moves with an eerie stillness, as if conserving his energy for when it is truly needed. </p><p>Dressed in simple but well-worn clothing, he blends easily into the background—until the moment he steps forward, reminding everyone that he is always watching.</p><p>.</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.344",
+        "systemId": "CoC7",
+        "systemVersion": "7.9",
+        "createdTime": 1742570843066,
+        "modifiedTime": 1742702082900,
+        "lastModifiedBy": "w41F2zx5Gd2Wrk7K"
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "sort": 600000,
+      "name": "Petronila Cupitina",
+      "type": "text",
+      "_id": "Rgt5EfBLxH0HgpDH",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"width:100%;border:none;background:transparent\"><tbody><tr style=\"background:transparent\"><td style=\"width:50%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:100%;aspect-ratio:1/1\" src=\"modules/masks-of-nyarlathotep-data/assets/imgs/0_Peru/People/Petronila%20Cupitana.webp\" /></td><td style=\"padding:2rem;font-size:1.5rem\"><p><strong>Name: <br /></strong>Petronila Cupitina</p><p><strong>Age: </strong>71</p><p>No-nonsense hotelier</p></td></tr><tr style=\"background:transparent\"><td style=\"padding-right:1rem;vertical-align:top\"><h3>Backstory</h3><p>Cupitina is the owner of the Hotel España. Her husband, Angel, died three years ago, and she has continued to run the hotel single-handed, despite her advancing years. She spends much of her time sitting in an armchair in the hotel foyer, watching the world go by and chatting with guests.</p><p class=\"notification location\">Hotel Espania</p><section id=\"secret-bzbmhcYb8ixbPtMS\" class=\"secret\"><p class=\"p1\">If she suspects that a visitor is up to no good, she attempts to chase them off, waving her walking stick in a threatening manner and shouting about how her son, Fortunato, is a policeman and will throw them all in jail.</p></section></td><td style=\"vertical-align:top\"><h3>Personality</h3><p><strong>Description</strong>: a small, thin woman with a heavily lined face <span class=\"s1\">and wispy white hair. She usually wears a black shawl and headscarf and walks with a stick.</span></p><p class=\"p2\"><strong>Traits</strong>: quite hard of hearing and speaks in a near shout <span class=\"s2\">no matter the tone of the conversation. She has grown </span><span class=\"s1\">increasingly irritable in recent years and is quick to lose her </span><span class=\"s2\">temper with those she believes are disrespecting her, the </span><span class=\"s1\">hotel, or her guests. When her temper is up, she waves her walking stick around threateningly.</span></p><section id=\"secret-0YaDTRNCUfnq64c8\" class=\"secret\"><p class=\"p2\"><span class=\"s2\">Roleplaying hooks: Cupitina may be a useful source of </span><span class=\"s1\">information about Larkin and de Mendoza or an adversary </span><span class=\"s2\">if she catches the investigators breaking into rooms or </span><span class=\"s1\">behaving suspiciously.</span></p></section></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.344",
+        "systemId": "CoC7",
+        "systemVersion": "7.9",
+        "createdTime": 1742571710202,
+        "modifiedTime": 1742572181434,
+        "lastModifiedBy": "w41F2zx5Gd2Wrk7K"
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "sort": 700000,
+      "name": "Professor Sánchez",
+      "type": "text",
+      "_id": "OFXQ7rl3IlcrU2xE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"width:100%;border:none;background:transparent\"><tbody><tr style=\"background:transparent\"><td style=\"width:50%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:100%;aspect-ratio:1/1\" src=\"modules/masks-of-nyarlathotep-data/assets/imgs/0_Peru/People/Professor%20Nemesio%20Sanchez.webp\" /></td><td style=\"padding:2rem;font-size:1.5rem\"><p><strong>Name: </strong>Professor Nemesio Sánchez</p><p><strong>Age: </strong>35</p><p></p></td></tr><tr style=\"background:transparent\"><td style=\"padding-right:1rem;vertical-align:top\"><h3>Backstory</h3><p>Professor Sánchez is a distinguished archaeologist at the National Autonomous University of Mexico, known for his expertise in pre-Columbian civilizations. Though scholarly and reserved, he has a quiet passion for uncovering the past, particularly the mysteries surrounding lost artifacts and forgotten myths. </p><p>Prof. Sánchez was one of the first academics hired by the Universidad Nacional Mayor de San Marcos (National University of San Marcos) when the Museo de Arqueología y Antropología (Museum of Archaeology and Anthropology) opened in 1919. Even before the founding of the school, he accompanied or led a number of archaeological expeditions in Peru, Bolivia, and Colombia. His knowledge of the history of South America is extensive</p><p>.</p></td><td style=\"vertical-align:top\"><h3>Personality</h3><p>Description: slim and dapper, with neatly oiled hair and a well-groomed beard. He wears glasses and is usually dressed <span class=\"s1\">in a suit when at the university.</span></p><p class=\"p2\"><span class=\"s2\">Traits: loves to talk, especially about </span><span class=\"s1\">archaeology, history, and anthropology.</span></p><p class=\"p3\"><span class=\"s1\">He will happily spend hours discussing </span><span class=\"s3\">these or any other topics. Nothing excites </span><span class=\"s2\">Prof. Sánchez more than the exchange of </span><span class=\"s1\">knowledge.</span></p><p>.</p><section id=\"secret-U12TaSLKQvXOhGXl\" class=\"secret\"><p>He has offered to help Larkin on a number of occasions, only to be ignored or rebuffed each time. His suspicion is that Larkin wishes to loot the site without interference. There are no legal restrictions in Peru to prevent foreigners from doing this—a fact that frustrates Sánchez deeply. Sánchez refers to people who would remove his country’s treasures in such a manner as huaqueros, a Quechua word that translates as “grave robbers.”</p></section><p>.</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.344",
+        "systemId": "CoC7",
+        "systemVersion": "7.9",
+        "createdTime": 1742602021472,
+        "modifiedTime": 1742701510723,
+        "lastModifiedBy": "w41F2zx5Gd2Wrk7K"
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "sort": 800000,
+      "name": "Pedro de Velasco",
+      "type": "text",
+      "_id": "gnmYpdK6FnZS5qc7",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"width:100%;border:none;background:transparent\"><tbody><tr style=\"background:transparent\"><td style=\"width:50%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:100%;aspect-ratio:1/1\" src=\"https://source.unsplash.com/random\" /></td><td style=\"padding:2rem;font-size:1.5rem\"><p><strong>Name: </strong>Lorem</p><p><strong>Race: </strong>1500</p><p><strong>Age: </strong>800</p><p><strong>Background: </strong>Ipsum</p><p><strong>Faction: </strong>Lorem</p></td></tr><tr style=\"background:transparent\"><td style=\"padding-right:1rem;vertical-align:top\"><h3>Backstory</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p></td><td style=\"vertical-align:top\"><h3>Personality</h3><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.344",
+        "systemId": "CoC7",
+        "systemVersion": "7.9",
+        "createdTime": 1742602133380,
+        "modifiedTime": 1743764320532,
+        "lastModifiedBy": "w41F2zx5Gd2Wrk7K"
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "sort": 900000,
+      "name": "Narya",
+      "type": "text",
+      "_id": "Xn41PuoyZNEmszKz",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"width:100%;border:none;background:transparent\"><tbody><tr style=\"background:transparent\"><td style=\"width:50%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:100%;aspect-ratio:1/1\" src=\"modules/masks-of-nyarlathotep-data/assets/imgs/0_Peru/People/Nayra.webp\" /></td><td style=\"padding:2rem;font-size:1.5rem\"><p><strong>Name: </strong>Narya</p><p>Yatiri <br />(healer or wise woman)<span class=\"Apple-converted-space\"> </span></p></td></tr><tr style=\"background:transparent\"><td style=\"padding-right:1rem;vertical-align:top\"><h3>Backstory</h3><p>In hiding after speaking to Jackson Elias.</p><section id=\"secret-TgyznCxUGOYpBQKg\" class=\"secret\"><p><br />The floating island on which Nayra is hiding is around 2 miles (3 km) from Puno. It is home to seven fishermen and their families.<span class=\"Apple-converted-space\"> </span></p></section></td><td style=\"vertical-align:top\"><h3>Personality</h3><p>Lorem</p><section id=\"secret-KmkhHaMWzm2BT7ip\" class=\"secret\"><p>Something of a comedian, Nayra takes delight in mischief</p></section></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.344",
+        "systemId": "CoC7",
+        "systemVersion": "7.9",
+        "createdTime": 1742619430155,
+        "modifiedTime": 1742619659082,
+        "lastModifiedBy": "w41F2zx5Gd2Wrk7K"
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
+    },
+    {
+      "sort": 1000000,
+      "name": "Trinidad Rizo",
+      "type": "text",
+      "_id": "XnM9ocarNYYdcWSs",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<table style=\"width:100%;border:none;background:transparent\"><tbody><tr style=\"background:transparent\"><td style=\"width:50%;padding:0;margin:0\"><img style=\"-webkit-mask-size:100% 100%;-webkit-mask-image:url('modules/simple-quest/assets/mask/mask1.webp');object-fit:cover;border:none;border-radius:5px;width:100%;aspect-ratio:1/1\" src=\"modules/masks-of-nyarlathotep-data/assets/imgs/0_Peru/People/Trinidad%20Rizo.webp\" /></td><td style=\"padding:2rem;font-size:1.5rem\"><p><strong>Name: </strong>Trinidad Rizo</p><p><strong>Age: </strong>19</p></td></tr><tr style=\"background:transparent\"><td style=\"padding-right:1rem;vertical-align:top\"><h3>Backstory</h3><p>Trinidad Rizo is a bright and energetic undergraduate with an insatiable curiosity for history and myth. Working alongside Professor Sánchez, she has thrown herself into unraveling the mysteries of a lost expedition, her enthusiasm outpacing even her meticulous research. Recently, a chance discovery in the university archives has set her on an exciting path—one that may lead to something truly remarkable. With a quick tongue and expressive gestures, she can barely contain her excitement when discussing her findings, eager to share her insights with anyone willing to listen. Though young, her sharp mind and determination make her an invaluable ally in the pursuit of forgotten truths.</p></td><td style=\"vertical-align:top\"><h3>Personality</h3><p>A whirlwind of enthusiasm, her passion for history and discovery evident in every rapid-fire sentence and animated gesture. She speaks quickly—sometimes too quickly—her words tumbling out in an eager rush, often accompanied by sweeping hand movements that make her excitement impossible to ignore. Though still a student, she approaches research with boundless energy and an unshakable belief that the past holds secrets waiting to be uncovered. Her natural curiosity sometimes leads her to take risks, but her sharp intellect and determination make her an invaluable researcher and a delight to those who can keep up with her.</p><p><strong>Description:</strong><br />A slightly built young woman of nineteen, Trinidad has dark, curly hair that seems to bounce with the same energy she exudes. Her expressive brown eyes sparkle with curiosity, and her infectious smile makes her naturally likable. She dresses in simple but practical clothing suited for long hours in the university archives or dusty museum storage rooms. Whether flipping through ancient texts or excitedly explaining her latest find, her enthusiasm is undeniable—an unstoppable force of youthful brilliance in the pursuit of knowledge.</p></td></tr></tbody></table>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.344",
+        "systemId": "CoC7",
+        "systemVersion": "7.9",
+        "createdTime": 1742701566542,
+        "modifiedTime": 1742701751306,
+        "lastModifiedBy": "w41F2zx5Gd2Wrk7K"
+      },
+      "category": null,
+      "ownership": {
+        "default": -1
+      }
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "coreVersion": "13.344",
+    "systemId": "CoC7",
+    "systemVersion": "7.8",
+    "createdTime": 1739803470041,
+    "modifiedTime": 1739803470041,
+    "lastModifiedBy": "w41F2zx5Gd2Wrk7K",
+    "exportSource": {
+      "worldId": "masks-of-nyarlathotep",
+      "uuid": "JournalEntry.jlkmrmy4ApVPBpgf",
+      "coreVersion": "13.348",
+      "systemId": "CoC7",
+      "systemVersion": "7.19"
+    }
+  },
+  "categories": [],
+  "ownership": {
+    "default": 0
+  }
+}

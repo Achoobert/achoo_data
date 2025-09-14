@@ -1,0 +1,56 @@
+{
+  "name": "{{title}}",
+  "type": "book",
+  "img": "icons/sundries/books/book-black-grey.webp",
+  "folder": "bUoTuGsqBsf3fB9u",
+  "system": {
+    "author": "{{author}}",
+    "date": "{{date}}",
+    "content": "{{content}}",
+    "description": {
+      "chat": "{{chat_Description}}",
+      "value": "{{description}}",
+      "keeper": "{{keeper_Description}}"
+    },
+    "difficultyLevel": "{{difficultyLevel}}",
+    "fullStudies": 0,
+    "gains": {
+      "cthulhuMythos": {
+        "final": {{cthulhuMythos_final_gain}},
+        "initial": {{cthulhuMythos_initial_gain}}
+      },
+      "occult": {{occult_gain}},
+      "others": [{{others}}]
+    },
+    "initialReading": false,
+    "language": "{{language}",
+    "mythosRating": {{mythosRating}},
+    "sanityLoss": "1d6",
+    "study": {
+      "necessary": {{study_time_days}},
+      "progress": 0,
+      "units": "CoC7.days"
+    },
+    "type": {
+      "mythos": {{is_type_mythos}},
+      "occult": {{is_type_occult}},
+      "other": {{is_type_other}}
+    }
+  },
+  "flags": {
+    "CoC7": {
+      "cocidFlag": {
+        "id": "i.book.{{id}}",
+        "lang": "en",
+        "priority": 0
+      }
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "systemId": "CoC7"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

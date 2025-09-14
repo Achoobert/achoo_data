@@ -1,0 +1,426 @@
+{
+  "name": "De Vermiis Mysteriis",
+  "type": "book",
+  "img": "systems/CoC7/assets/icons/secret-book.svg",
+  "system": {
+    "alternativeNames": [],
+    "author": "Ludwig Prinn",
+    "content": "<p>Divided into sixteen chapters, De Vermiis Mysteriis concerns itself with a varied assortment of topics, including divination arts, necromancy, the creation of familiars, as well as bizarre theories and descriptions of entities such as vampires, sprites, and elementals. </p><p>Certain copies of the tome have large sections written in what is considered to be Ogham (Druidic runes). Some suspect the Ogham is a cipher used by Prinn to “hide” more revealing and blasphemous ideas. Rumors circulated in the early twentieth century concerning the Esoteric Order of Dagon, who were allegedly seeking an original copy of the book. It is believed that within the ciphered sections are formulae to hasten the metamorphosis of a human into a deep one.</p>",
+    "date": "1542",
+    "description": {
+      "chat": "",
+      "value": "<p>Black letter folio printed in Cologne, Germany, in the same year. Suppressed by the Church. Fifteen copies have survived. In part discusses the Arab world, and things supernatural there.</p>",
+      "keeper": ""
+    },
+    "difficultyLevel": "regular",
+    "fullStudies": 0,
+    "gains": {
+      "cthulhuMythos": {
+        "final": 8,
+        "initial": 4
+      },
+      "occult": 0,
+      "others": []
+    },
+    "initialReading": false,
+    "language": "Latin",
+    "mythosRating": 36,
+    "sanityLoss": "2D6",
+    "spells": [
+      {
+        "_id": "ycarQ1a2899wga8n",
+        "name": "Contact Deity: Yig",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "1D6+4 rounds",
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "0",
+            "others": "",
+            "sanity": "1D6",
+            "power": "5"
+          },
+          "description": {
+            "value": "<p>The caster prepares a noxious red potion from the poison glands of a sacred snake of Yig. A prepared sacrifice is made to drink the potion, which induces painful muscle spasms. During the convulsions, the sacrifice is strapped upon an altar, while attendants chant the ritual. If the spell is successful, a child of Yig bursts from the sacrifice&rsquo;s stomach. Yig converses with the caster for a few minutes through this horrific snake. When the Father of Serpents departs, the sacrifice&rsquo;s torso bursts forth with 2D10 sacred snakes.</p><h2>About Contact Deity Spells</h2><p>Contact Deity spells are unused except by the insane priests of these deities or by great independent sorcerers who hope to strike deals and win some small fraction of the deity&rsquo;s powers. The deities sought for contact are many and varied.</p><p>The chance of successfully contacting the deity is equal to half the caster&rsquo;s POW (reduced after paying 5 POW cost). If the Hard POW roll succeeds, the deity (or some aspect of it) will contact the caster in a semi-friendly manner after a few hours or days. The deity is unlikely to give non-worshipers anything of value. If the deity is bored or offended, it will likely squash the caster or drive him or her insane.</p><p><strong>Alternatives names:</strong> each spell name usually reflects elements of the deity, its name, sphere of influence, powers, and so on. For example: Call Down the Opener of the Way, Entreat the Daemon Sultan, Give Praise to He who Slumbers beneath the Waters.</p>"
+          },
+          "type": {
+            "contact": true
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.contact-deity-yig",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      },
+      {
+        "_id": "GT6CiaxF6gOG25Pd",
+        "name": "Create Scrying Window",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "The Grand Grimoire of Cthulhu Mythos Magic",
+          "castingTime": "Many weeks",
+          "description": {
+            "value": "<p>Enchants a piece of glass to create a permanent magic window that allows the sorcerer to look into the past. Using the glass costs the viewer [[/roll 1D3]] Sanity points per session, as well as incidental Sanity losses for viewing particular monsters.</p><p>To make a scrying window, the sorcerer must enchant a clear viewing glass with 50 POW. When the glass is enchanted, it must be keyed to a specific time in the past, relative to the date the glass is made. As a key, one could say, &ldquo;800 years past,&rdquo; but not &ldquo;1125 BCE&rdquo;. After the glass is enchanted and keyed, 98 pieces of expensive colored glass must be enchanted, requiring 1 magic point each, and fitted carefully into a geometric mosaic with the clear viewing glass at the center. When finished, the central glass shows the site at which it is placed (though at the appropriate time in the past).</p><p>The viewing site may be changed by expending 1 magic point and five minutes of concentration per 100 miles or fraction thereof moved.</p><p>The glass has obvious limitations: a given scene can be viewed once, for time passes on both sides of the glass, and the glass must be tuned to a spot where things actually happen.</p><p>The scrying window has an inherent danger. Any intelligent being viewed may make a <strong>@coc7.check[type:characteristic,name:pow,difficulty:2]{Hard POW}</strong> roll to realize that it is being observed. So notified, the being (if able) could then cast a spell through the window, including a Summon or Call spell which could manifest a monster on the observer&rsquo;s side of the window!</p><p><strong>Alternative names:</strong> Create Vision of Things Past, The Mirror of History, Glass of the Ages.</p>"
+          },
+          "type": {
+            "enchantment": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "98",
+            "others": "",
+            "sanity": "1D3 / Per Session",
+            "power": "50"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.create-scrying-window",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      },
+      {
+        "_id": "AHbGRBVXmUvoDctI",
+        "name": "Create Zombie",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "1 week",
+          "description": {
+            "value": "<p>A ritual liquid must be poured over a corpse or into the grave where a corpse lies. The Keeper determines the ingredients of the liquid: at least one part should be difficult to obtain legally. The corpse is left to mature. At the end of a week, the caster comes to the grave and intones the binding ritual. At the end of the half-hour chant, the corpse claws its way from the grave and thereafter performs the caster&rsquo;s will. The zombie will perform mundane and simple tasks such as &ldquo;guard this,&rdquo; &ldquo;fetch that,&rdquo; or &ldquo;kill him!&rdquo;.</p><p>A zombie created in this manner continues to rot after it has risen. Thus a wizard wishing a constant zombie servant must periodically create replacements.</p><p><strong>Alternative names:</strong> Ritual of the Undying, Black Binding, The Ashen Cowl, Raising of the Dead.</p>"
+          },
+          "type": {
+            "enchantment": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "16",
+            "others": "",
+            "sanity": "1D6",
+            "power": "0"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.create-zombie",
+              "lang": "en",
+              "priority": 0,
+              "eras": {
+                "standard": true
+              }
+            }
+          }
+        }
+      },
+      {
+        "_id": "MVz2RGgHRFmb9opE",
+        "name": "Summon Byakhee",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "5 minutes per magic point",
+          "description": {
+            "value": "<p>A whistle must be blown during the chant. This spell is active only on nights when Aldebaran is above the horizon (October through March are the best months). The summoned byakhee will flap down out of the sky, still icy from its travels through space.</p><p>If the whistle is enchanted, each point of POW in its enchantment adds 2 percentiles to the chance for success. Such a whistle may be used again and again.</p><p><strong>Alternative names:</strong> Call in to Service Thy Steed, The Melody that brings the Journeyed.</p><h2>About Summon Spells</h2><p>Such spells concern themselves with alien races and attendants, those monsters that commonly serve greater monsters or wizards. The general procedures for these spells are the same, but conditions may vary from spell to spell. Knowing one such spell is of no use whatsoever in attempting to cast another. Unless the Keeper wishes otherwise, the summon and the bind portions of each spell are learned together. Foolish is the impatient wizard who only learns to summon and not to bind&hellip; With the exception of Summon/Bind Servitor of the Outer Gods, these spells require the sacrifice of 1 magic point per 10 percentiles chance for success. For example, 3 magic points gives a 30% chance for the spell to succeed. In general, for each magic point spent, the caster must spend five minutes chanting&mdash;the greater the chance for success, the longer the spell takes to cast. A result of 96-100 is always a failure&mdash;a rolled result of 100 should always have bad consequences for the wizard concerned. The caster also loses 1D4 Sanity points per spell cast, whether the spell succeeds or not. If a success, one being appears per spell, [[/roll 2D10]] game minutes after the chant concludes. The thing appearing may also require a Sanity loss to see it. As the Keeper wishes, the thing arrives bound or the Keeper may ask that the caster make an opposed POW roll versus the summoned being. With a success, the thing is bound; with a failure, it attacks the caster and then returns from whence it came. Bound, the thing must obey one order by the caster, even to attacking its own kind, after which it is freed and returns from whence it came.</p><h2>Form of the Command</h2><p>The caster&rsquo;s command to the thing must be specific and limited in duration: &ldquo;protect me from harm forever,&rdquo; would not be a valid command; however, &ldquo;slay that man in the corner,&rdquo; would be. The thing is bound to the caster until it fulfills a command (a bound thing without a command soon finds a way to leave). Orders might include carrying someone somewhere, presiding at some ceremony, being especially docile while being examined by a group of professors, appearing somewhere as a warning to those assembled&mdash;whatever can be imagined.</p><p>Keep commands simple. The best rule of thumb is that a command has no more words than one-fifth of the thing&rsquo;s INT. Simple gestures such as pointing will be understood. Assume that the thing is always able to understand a straightforward command, whether spoken in English or Urdu. See also Separate Binding.</p>"
+          },
+          "type": {
+            "summon": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "variable",
+            "others": "",
+            "sanity": "1D4",
+            "power": "0"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.summon-byakhee",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      },
+      {
+        "_id": "g2GzjiExcjGcnz7H",
+        "name": "Summon Dark Young",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "5 minutes per magic point",
+          "description": {
+            "value": "<p>Brings present a single dark young. A beast of at least SIZ 40 must be sacrificed. The summoner needs a knife to make certain ritual cuts in dispatching the victim. Cast this spell outdoors, in a wood, during the dark of the moon. A dark young will stalk out of the shadows after the summoning.</p><p><strong>Alternative names:</strong> Envoke the Darke of the Forest, Knife Ritual of the Bleeding Bark.</p><h2>About Summon Spells</h2><p>Such spells concern themselves with alien races and attendants, those monsters that commonly serve greater monsters or wizards. The general procedures for these spells are the same, but conditions may vary from spell to spell. Knowing one such spell is of no use whatsoever in attempting to cast another. Unless the Keeper wishes otherwise, the summon and the bind portions of each spell are learned together. Foolish is the impatient wizard who only learns to summon and not to bind&hellip; With the exception of Summon/Bind Servitor of the Outer Gods, these spells require the sacrifice of 1 magic point per 10 percentiles chance for success. For example, 3 magic points gives a 30% chance for the spell to succeed. In general, for each magic point spent, the caster must spend five minutes chanting&mdash;the greater the chance for success, the longer the spell takes to cast. A result of 96-100 is always a failure&mdash;a rolled result of 100 should always have bad consequences for the wizard concerned. The caster also loses 1D4 Sanity points per spell cast, whether the spell succeeds or not. If a success, one being appears per spell, [[/roll 2D10]] game minutes after the chant concludes. The thing appearing may also require a Sanity loss to see it. As the Keeper wishes, the thing arrives bound or the Keeper may ask that the caster make an opposed POW roll versus the summoned being. With a success, the thing is bound; with a failure, it attacks the caster and then returns from whence it came. Bound, the thing must obey one order by the caster, even to attacking its own kind, after which it is freed and returns from whence it came.</p><h2>Form of the Command</h2><p>The caster&rsquo;s command to the thing must be specific and limited in duration: &ldquo;protect me from harm forever,&rdquo; would not be a valid command; however, &ldquo;slay that man in the corner,&rdquo; would be. The thing is bound to the caster until it fulfills a command (a bound thing without a command soon finds a way to leave). Orders might include carrying someone somewhere, presiding at some ceremony, being especially docile while being examined by a group of professors, appearing somewhere as a warning to those assembled&mdash;whatever can be imagined.</p><p>Keep commands simple. The best rule of thumb is that a command has no more words than one-fifth of the thing&rsquo;s INT. Simple gestures such as pointing will be understood. Assume that the thing is always able to understand a straightforward command, whether spoken in English or Urdu. See also Separate Binding.</p>"
+          },
+          "type": {
+            "summon": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "variable",
+            "others": "",
+            "sanity": "1D4",
+            "power": "0"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.summon-dark-young",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      },
+      {
+        "_id": "a8tQLFGOPOp6HwOO",
+        "name": "Summon Star Vampire",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "5 minutes per magic point",
+          "description": {
+            "value": "<p>Curious rustling sounds are heard once this invisible thing lurks near. The caster also needs a book in which are written or inscribed the words of the spell. If the book is enchanted, the chance for success is increased by 2 percentiles per point of POW within the book. This spell can be cast only at night under a cloudless sky. The creature is invisible save when its veins fill with blood from some visible creature.</p><p><strong>Alternative names:</strong> The Night Call of the Feasting Death, Chant of the Bloody Letters.</p><h2>About Summon Spells</h2><p>Such spells concern themselves with alien races and attendants, those monsters that commonly serve greater monsters or wizards. The general procedures for these spells are the same, but conditions may vary from spell to spell. Knowing one such spell is of no use whatsoever in attempting to cast another. Unless the Keeper wishes otherwise, the summon and the bind portions of each spell are learned together. Foolish is the impatient wizard who only learns to summon and not to bind&hellip; With the exception of Summon/Bind Servitor of the Outer Gods, these spells require the sacrifice of 1 magic point per 10 percentiles chance for success. For example, 3 magic points gives a 30% chance for the spell to succeed. In general, for each magic point spent, the caster must spend five minutes chanting&mdash;the greater the chance for success, the longer the spell takes to cast. A result of 96-100 is always a failure&mdash;a rolled result of 100 should always have bad consequences for the wizard concerned. The caster also loses 1D4 Sanity points per spell cast, whether the spell succeeds or not. If a success, one being appears per spell, [[/roll 2D10]] game minutes after the chant concludes. The thing appearing may also require a Sanity loss to see it. As the Keeper wishes, the thing arrives bound or the Keeper may ask that the caster make an opposed POW roll versus the summoned being. With a success, the thing is bound; with a failure, it attacks the caster and then returns from whence it came. Bound, the thing must obey one order by the caster, even to attacking its own kind, after which it is freed and returns from whence it came.</p><h2>Form of the Command</h2><p>The caster&rsquo;s command to the thing must be specific and limited in duration: &ldquo;protect me from harm forever,&rdquo; would not be a valid command; however, &ldquo;slay that man in the corner,&rdquo; would be. The thing is bound to the caster until it fulfills a command (a bound thing without a command soon finds a way to leave). Orders might include carrying someone somewhere, presiding at some ceremony, being especially docile while being examined by a group of professors, appearing somewhere as a warning to those assembled&mdash;whatever can be imagined.</p><p>Keep commands simple. The best rule of thumb is that a command has no more words than one-fifth of the thing&rsquo;s INT. Simple gestures such as pointing will be understood. Assume that the thing is always able to understand a straightforward command, whether spoken in English or Urdu. See also Separate Binding.</p>"
+          },
+          "type": {
+            "summon": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "variable",
+            "others": "",
+            "sanity": "1D4",
+            "power": "0"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.summon-star-vampire",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      },
+      {
+        "_id": "7y4QfL6JZXsNEEbJ",
+        "name": "Bind Byakhee",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "1 round",
+          "description": {
+            "value": "<p>If an enchanted whistle is used, the caster gains a bonus die on the opposed POW roll. Such a whistle may be used again and again.</p><p><strong>Alternative names:</strong> Obligation of the Steed, Compel the Journeyed.</p><h2>About Binding Spells</h2><p>Binding and Summoning are two sides of the same coin. Sometimes they are learned as one spell, sometimes not. At the Keeper&rsquo;s discretion the effects may be combined or two separate rolls might be asked for, one to summon and a second to bind.</p><p>If a monster arrives unbound or is come upon unexpectedly, it may be bound on the spot. The caster must know the Summon/Bind spell for that type of thing and must spend a round chanting before the thing can be bound. For the spell to take effect the caster must succeed in an opposed POW roll with the target. Each cast of the binding costs 1 Sanity point but no magic points. A binding works on only one creature at a time. One option open to the caster is to invest a number of magic points equal to one-fifth of the summoned creature&rsquo;s POW to gain a bonus die on the opposed POW roll to bind the monster.</p><p>An attacking creature cannot be bound by the person it is fighting; however, it could be bound by a person able to hold back from the fray. A creature presently bound cannot be re-bound until its present command is completed. A creature to be bound must be visible to the caster and within 100 yards. Binding requires an opposed roll and opposed rolls cannot be pushed; if the opposed roll is failed, the caster is in trouble!</p><h2>Form of the Command</h2><p>The caster&rsquo;s command to the thing must be specific and limited in duration: &ldquo;protect me from harm forever,&rdquo; would not be a valid command; however, &ldquo;slay that man in the corner,&rdquo; would be. The thing is bound to the caster until it fulfills a command (a bound thing without a command soon finds a way to leave). Orders might include carrying someone somewhere, presiding at some ceremony, being especially docile while being examined by a group of professors, appearing somewhere as a warning to those assembled&mdash;whatever can be imagined.</p><p>Keep commands simple. The best rule of thumb is that a command has no more words than one-fifth of the thing&rsquo;s INT. Simple gestures such as pointing will be understood. Assume that the thing is always able to understand a straightforward command, whether spoken in English or Urdu.</p>"
+          },
+          "type": {
+            "bind": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "0",
+            "others": "",
+            "sanity": "1",
+            "power": "0"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.bind-byakhee",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      },
+      {
+        "_id": "7IH9zTiZOgoCNpwq",
+        "name": "Bind Dark Young",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "1 round",
+          "description": {
+            "value": "<p>If the caster uses an enchanted knife to kill their victim with certain ritual cuts they gain a bonus die to the opposed POW roll.</p><p><strong>Alternative names:</strong> Entrance the Heart Wood, Command the Forest for Thy Bidding.</p><h2>About Binding Spells</h2><p>Binding and Summoning are two sides of the same coin. Sometimes they are learned as one spell, sometimes not. At the Keeper&rsquo;s discretion the effects may be combined or two separate rolls might be asked for, one to summon and a second to bind.</p><p>If a monster arrives unbound or is come upon unexpectedly, it may be bound on the spot. The caster must know the Summon/Bind spell for that type of thing and must spend a round chanting before the thing can be bound. For the spell to take effect the caster must succeed in an opposed POW roll with the target. Each cast of the binding costs 1 Sanity point but no magic points. A binding works on only one creature at a time. One option open to the caster is to invest a number of magic points equal to one-fifth of the summoned creature&rsquo;s POW to gain a bonus die on the opposed POW roll to bind the monster.</p><p>An attacking creature cannot be bound by the person it is fighting; however, it could be bound by a person able to hold back from the fray. A creature presently bound cannot be re-bound until its present command is completed. A creature to be bound must be visible to the caster and within 100 yards. Binding requires an opposed roll and opposed rolls cannot be pushed; if the opposed roll is failed, the caster is in trouble!</p><h2>Form of the Command</h2><p>The caster&rsquo;s command to the thing must be specific and limited in duration: &ldquo;protect me from harm forever,&rdquo; would not be a valid command; however, &ldquo;slay that man in the corner,&rdquo; would be. The thing is bound to the caster until it fulfills a command (a bound thing without a command soon finds a way to leave). Orders might include carrying someone somewhere, presiding at some ceremony, being especially docile while being examined by a group of professors, appearing somewhere as a warning to those assembled&mdash;whatever can be imagined.</p><p>Keep commands simple. The best rule of thumb is that a command has no more words than one-fifth of the thing&rsquo;s INT. Simple gestures such as pointing will be understood. Assume that the thing is always able to understand a straightforward command, whether spoken in English or Urdu.</p>"
+          },
+          "type": {
+            "bind": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "0",
+            "others": "",
+            "sanity": "1",
+            "power": "0"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.bind-dark-young",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      },
+      {
+        "_id": "XWHbxQXSfJ2p4Uch",
+        "name": "Bind Star Vampire",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "1 round",
+          "description": {
+            "value": "<p>If the caster possesses an enchanted book containing the spell they gain one bonus die on the opposed POW roll.</p><p><strong>Alternative names:</strong> Vow of the Bloody Accord, The Ungodly Promise.</p><h2>About Binding Spells</h2><p>Binding and Summoning are two sides of the same coin. Sometimes they are learned as one spell, sometimes not. At the Keeper&rsquo;s discretion the effects may be combined or two separate rolls might be asked for, one to summon and a second to bind.</p><p>If a monster arrives unbound or is come upon unexpectedly, it may be bound on the spot. The caster must know the Summon/Bind spell for that type of thing and must spend a round chanting before the thing can be bound. For the spell to take effect the caster must succeed in an opposed POW roll with the target. Each cast of the binding costs 1 Sanity point but no magic points. A binding works on only one creature at a time. One option open to the caster is to invest a number of magic points equal to one-fifth of the summoned creature&rsquo;s POW to gain a bonus die on the opposed POW roll to bind the monster.</p><p>An attacking creature cannot be bound by the person it is fighting; however, it could be bound by a person able to hold back from the fray. A creature presently bound cannot be re-bound until its present command is completed. A creature to be bound must be visible to the caster and within 100 yards. Binding requires an opposed roll and opposed rolls cannot be pushed; if the opposed roll is failed, the caster is in trouble!</p><h2>Form of the Command</h2><p>The caster&rsquo;s command to the thing must be specific and limited in duration: &ldquo;protect me from harm forever,&rdquo; would not be a valid command; however, &ldquo;slay that man in the corner,&rdquo; would be. The thing is bound to the caster until it fulfills a command (a bound thing without a command soon finds a way to leave). Orders might include carrying someone somewhere, presiding at some ceremony, being especially docile while being examined by a group of professors, appearing somewhere as a warning to those assembled&mdash;whatever can be imagined.</p><p>Keep commands simple. The best rule of thumb is that a command has no more words than one-fifth of the thing&rsquo;s INT. Simple gestures such as pointing will be understood. Assume that the thing is always able to understand a straightforward command, whether spoken in English or Urdu.</p>"
+          },
+          "type": {
+            "bind": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "0",
+            "others": "",
+            "sanity": "1",
+            "power": "0"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.bind-star-vampire",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      },
+      {
+        "_id": "FVa9N39RlPe5KMrJ",
+        "name": "Mind Transfer",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "5+ rounds",
+          "description": {
+            "value": "<p>A powerful spell allowing the caster to permanently trade minds with a target, perhaps to attain longer life at the target&rsquo;s expense. For the spell to take effect the caster must succeed in an opposed POW roll with the target. With success, the caster loses [[/roll 1D10]] Sanity points and the target loses [[/roll 2D10]] Sanity points. If the exchange fails, the caster must immediately cast the spell again (losing 10 more magic points) or his or her soul dissipates into eternity. Once the transfer is begun, it cannot be broken off.</p><p>A successful casting means that the caster has permanently taken control of the target&rsquo;s body. The caster&rsquo;s previous body is now a hollow, dead thing. As for the mind of the target, conjecture suggests that it is expelled from the body and thus dies; however, some hint that it remains inside its own body, subservient to the caster&rsquo;s mind and locked in a permanent state of horrific madness.</p><p><strong>Deeper magic:</strong> the dark will of wizards is a mighty thing, often transcending the very grave. Wizards, fearful of death or eager to ensure longevity, may prepare the Mind Transfer spell many years in advance of its casting. Such preparations usually concern some personal item (such as portrait or dairy), wherein the spell is keyed, awaiting the right conditions for it to come to fruition. Oft time, the key is found by some future descendant of the caster, who unknowingly or willingly activates the spell.</p><p><strong>Alternative names:</strong> The Mortal&rsquo;s Bargain, Ceaseless Vitality of the Blood, Soul Possession.</p>"
+          },
+          "type": {
+            "enchantment": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "10",
+            "others": "",
+            "sanity": "1D10",
+            "power": "0"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.mind-transfer",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      },
+      {
+        "_id": "HcptXnjo3MrrQ5uv",
+        "name": "Voorish Sign",
+        "type": "spell",
+        "img": "systems/CoC7/assets/icons/pentagram-rose.svg",
+        "system": {
+          "source": "Keeper Rulebook V7",
+          "castingTime": "1 round",
+          "description": {
+            "value": "<p>An ancient and powerful hand gesture used by wizards that benefits the casting of other spells. It may lessen the cost, reduce the casting time, or increase the effect a little, depending on the spell in question (the precise benefit is determined by the Keeper).</p><p>The Voorish Sign must be cast in the round preceding the spell it is enhancing.The Voorish Sign is also rumored to temporarily ward against Mythos monsters&mdash;such creatures are wary of the sign and may hold off an attack until the wizard&rsquo;s intentions are known.</p><p><strong>Alternative names:</strong> Sign of Power, Cunninge Pass.</p>"
+          },
+          "type": {
+            "enchantment": true
+          },
+          "costs": {
+            "hitPoints": "0",
+            "magicPoints": "1",
+            "others": "",
+            "sanity": "1",
+            "power": "0"
+          }
+        },
+        "flags": {
+          "CoC7": {
+            "cocidFlag": {
+              "id": "i.spell.voorish-sign",
+              "lang": "en",
+              "priority": 0
+            }
+          }
+        }
+      }
+    ],
+    "study": {
+      "necessary": 48,
+      "progress": 0,
+      "units": "CoC7.weeks"
+    },
+    "type": {
+      "mythos": true,
+      "occult": false,
+      "other": false
+    }
+  },
+  "folder": "DQiy7brGcYnuIU0g",
+  "flags": {
+    "CoC7": {
+      "cocidFlag": {
+        "id": "i.book.de-vermiis-mysteriis",
+        "lang": "en",
+        "priority": 0
+      }
+    }
+  },
+  "effects": [],
+  "_stats": {
+    "coreVersion": "13.348",
+    "systemId": "CoC7",
+    "systemVersion": "7.19",
+    "createdTime": 1757750690563,
+    "modifiedTime": 1757750690563,
+    "lastModifiedBy": "w41F2zx5Gd2Wrk7K",
+    "exportSource": {
+      "worldId": "masks-of-nyarlathotep",
+      "uuid": "Item.jw3PLDveMDYbSLPm",
+      "coreVersion": "13.348",
+      "systemId": "CoC7",
+      "systemVersion": "7.19"
+    }
+  },
+  "ownership": {
+    "default": 0
+  }
+}
