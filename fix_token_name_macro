@@ -1,0 +1,13 @@
+const tokens = canvas.tokens.controlled;
+if (tokens.length > 0) {
+  const updates = [];
+  tokens.forEach(token => {
+    updates.push({
+      _id: token.id,
+      name: token.actor.name // Set the token's name to the actor's name
+    });
+  });
+  canvas.scene.updateEmbeddedDocuments("Token", updates);
+} else {
+  ui.notifications.warn("No tokens were selected");
+}

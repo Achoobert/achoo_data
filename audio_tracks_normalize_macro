@@ -1,0 +1,26 @@
+// --- CONFIGURATION ---
+const TARGET_VOLUME = 0.05; // Set your desired volume here
+// ---------------------
+
+(async () => {
+    const allUpdates = [];
+
+    // Loop through every playlist
+    for (const playlist of game.playlists) {
+        const playlistUpdates = playlist.sounds.map(sound => ({
+            _id: sound.id,
+            volume: TARGET_VOLUME
+        }));
+        
+        if (playlistUpdates.length > 0) {
+            await playlist.updateEmbeddedDocuments("PlaylistSound", playlistUpdates);
+            allUpdates.push(...playlistUpdates);
+        }
+    }
+
+    if (allUpdates.length > 0) {
+        ui.notifications.info(`Successfully updated the volume of ${allUpdates.length} music tracks to ${TARGET_VOLUME}.`);
+    } else {
+        ui.notifications.warn("No music tracks were found to update.");
+    }
+})();

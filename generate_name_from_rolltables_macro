@@ -1,0 +1,37 @@
+// Generates a random name from a compendium table and applies it to selected tokens.
+
+async function getRandomFemaleName() {
+   // I highly recommend storing your rolltables in compendiums! Just update these links:
+   const table1 = await fromUuid("Compendium.achoosounds.Achoo_base_roll_tables.RollTable.XErLpgKMgcOmdRX9");
+   const table2 = await fromUuid("Compendium.achoosounds.Achoo_base_roll_tables.RollTable.UM4XusjmzicPTjkx");
+   if (!table1 || !table2) {
+      ui.notifications.error("Compendium table not found!");
+      return null;
+   }
+   const firstNameResult = await table1.draw({ displayChat: false });
+   const lastNameResult = await table2.draw({ displayChat: false });
+   if (firstNameResult.results.length > 0 || lastNameResult.results.length > 0) {
+      const firstName = firstNameResult.results[0].getChatText();
+      const lastName = lastNameResult.results[0].getChatText();
+      return `${firstName} ${lastName}`;
+   }
+   return null;
+}
+
+const tokens = canvas.tokens.controlled;
+if (tokens.length > 0) {
+   const updates = [];
+   for (const token of tokens) {
+      const randomName = await getRandomFemaleName();
+      if (randomName) {
+         updates.push({
+            _id: token.id,
+            name: randomName
+         });
+      }
+   }
+   if (updates.length > 0) {
+      canvas.scene.updateEmbeddedDocuments("Token", updates);
+      ui.notifications.info(`Updated ${updates.length} token names.`);
+   }
+}

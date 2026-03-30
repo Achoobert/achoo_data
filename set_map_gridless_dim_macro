@@ -1,0 +1,26 @@
+// Set the current ACTIVE scene to gridless
+let scene = game.scenes.active;
+  ui.notifications.info(`Updating "${scene.name}"`);
+
+if (!scene) {
+  ui.notifications.warn("No active scene!");
+} else {
+  scene.update({ 
+    grid:{type: 0 },
+    environment:{
+      darknessLevel: .3,
+      globalLight:{
+        saturation:-.4
+      }
+    },
+    // base: {
+    //   hue: .13861386138613863,
+    //   intensity:.3,
+    //   saturation: -
+    // },
+    dark: {
+      saturation: -.5
+    }
+  });
+  ui.notifications.info(`Scene "${scene.name}" is now gridless, desaturated, and dim.`);
+}

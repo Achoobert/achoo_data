@@ -1,0 +1,60 @@
+// This is a llm generated macro, it works OK enough that I haven't tweaked it too much. Too busy actually playing the game....
+// Default size will be 4 grid spaces (e.g., 400x400) for better visibility of a handout
+const DEFAULT_TILE_SIZE = canvas.grid.size * 4; 
+const DEFAULT_Z_LEVEL = 100; 
+
+(async () => {
+    // 1. Get the image URL from the user
+    const imgUrl = await Dialog.prompt({
+        title: "Create Tile from URL",
+        content: `<p>Paste the direct image URL from your clipboard:</p><input type="text" id="tile-url" value="" autofocus/>`,
+        callback: (html) => html.find('#tile-url').val(),
+        options: {
+            width: 400
+        }
+    });
+
+    if (!imgUrl) {
+        return ui.notifications.warn("Tile creation cancelled or no URL provided.");
+    }
+
+    // 2. Determine the placement coordinates (Modern V11+ approach)
+    // Get the center of the current view (world coordinates)
+    const {x: centerX, y: centerY} = (1, 1);
+
+    // Calculate top-left corner based on center and default size
+    const x = Math.round(centerX - (DEFAULT_TILE_SIZE / 2));
+    const y = Math.round(centerY - (DEFAULT_TILE_SIZE / 2));
+    
+    // 3. Prepare the Tile data using your preferred structure
+    const tileData = {
+        texture: {
+            src: imgUrl
+        },
+        x: 1,
+        y: 1,
+        width: DEFAULT_TILE_SIZE,
+        height: DEFAULT_TILE_SIZE,
+        z: DEFAULT_Z_LEVEL,
+        // Set the lock aspect ratio flag to true so the tile scales correctly when resized
+        flags: {
+            foundry: {
+                lockAspect: true
+            }
+        }
+    };
+
+    // 4. Create the Tile document on the canvas
+    const newTiles = await canvas.scene.createEmbeddedDocuments("Tile", [tileData]);
+    const newTile = newTiles[0]; // The result is always an array, so we take the first element.
+
+    if (newTile) {
+        ui.notifications.info(`Successfully created new Tile from URL.`);
+        
+        // Optional: Switch to the Tile Layer and select the new tile for easy manipulation
+        canvas.tiles.activate();
+        // The display object for the document (Tile) is accessed via its ID on the layer's collection.
+        canvas.tiles.get(newTile.id).control({releaseOthers: true});
+    }
+
+})();
